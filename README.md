@@ -36,5 +36,3 @@ The final feed will use:
 - 5-minute reminder
 - room / campus location
 - manual professor overrides
-
-- https://raw.githubusercontent.com/jay-max-c/pk-architecture-calendar/main/PK_Y1S1_2026.ics
