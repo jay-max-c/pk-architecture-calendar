@@ -1,5 +1,5 @@
-Official source: https://arch.pk.edu.pl/wp-content/uploads/2026/08/2026-27_semestr_1_ST_2_EN.pdf
-PDF SHA256: e92f02e60e2229a5e19a9fea572f867275deee4d1801b7610ad7ca9a6a3a15e5
+Official source: https://arch.pk.edu.pl/wp-content/uploads/2026/09/2026_27_ST_2_ROK_1_SEM_1_ENGLISH.pdf
+PDF SHA256: 115a52886274e2133ce5ec6e3ed06ebc0cdccf23e456ea143aa5acbe4f606a40
 
 ===== PAGE 1 =====
                                                                                                                                                                     
@@ -27,7 +27,7 @@ PDF SHA256: e92f02e60e2229a5e19a9fea572f867275deee4d1801b7610ad7ca9a6a3a15e5
                                                           9:00                                                                                                      
                                                           9:15                                                                                                      
                                                           9:30                                                                                                      
-                                                          9:45                                                                                                      
+                                                          9:45 A4, SJ                                                                                               
                                                           10:00                                                                                                     
                                                           10:15                                                                                                     
                                                           10:30                                                                                                     
@@ -36,7 +36,7 @@ PDF SHA256: e92f02e60e2229a5e19a9fea572f867275deee4d1801b7610ad7ca9a6a3a15e5
                                                           11:15                                                                                                     
                                                           11:30                                                                                                     
                                                           11:45                                                                                                     
-                                                          12:00                                                                                                     
+                                                          12:00 A1, DP                                                                                              
                                                           12:15                                                                                                     
                                                           12:30                                                                                                     
                                                           12:45                                                                                                     
@@ -46,7 +46,7 @@ PDF SHA256: e92f02e60e2229a5e19a9fea572f867275deee4d1801b7610ad7ca9a6a3a15e5
                                                           13:45                                                                                                     
                                                           14:00                                                                                                     
                                                           14:15                                                                                                     
-                                                          14:30                                                                                                     
+                                                          14:30 A1, DP                                                                                              
                                                           14:45                                                                                                     
                                                           15:00                                                                                                     
                                                           15:15                                                                                                     
@@ -123,11 +123,67 @@ PDF SHA256: e92f02e60e2229a5e19a9fea572f867275deee4d1801b7610ad7ca9a6a3a15e5
                                                           19:00                                                                                                     
                                                           19:15                                                                                                     
                                                           19:30                                                                                                     
-                                                          19:45                                                                                                     
+                                                          19:45                    A5, RB/MWB, 2 grupy                                                              
                                                           20:00                                                                                                     
                                                           20:15                                                                                                     
                                                           20:30                                                                                                     
                                                           20:45                                                                                                     
+                                                          07:00                                                                                                     
+                                                          07:15                                                                                                     
+                                                          07:30                                                                                                     
+                                                          07:45                                                                                                     
+                                                          8:00                                                                                                      
+                                                          8:15                                                                                                      
+                                                          8:30                                                                                                      
+                                                          8:45                                                                                                      
+                                                          9:00                                                                                                      
+                                                          9:15                     A5, RB/MWB, 2 grupy                                                              
+                                                          9:30                                                                                                      
+                                                          9:45                                                                                                      
+                                                          10:00                                                                                                     
+                                                          10:15                                                                                                     
+                                                          10:30                                                                                                     
+                                                          10:45                                                                                                     
+                                                          11:00                    A1, DKK, 2 grupy                                                                 
+                                                          11:15                                                                                                     
+                                                          11:30                                                                                                     
+                                                          11:45                                                                                                     
+                                                          12:00                                                                                                     
+                                                          12:15                                                                                                     
+                                                          12:30                                                                                                     
+                                                          12:45                                                                                                     
+                                                          13:00                                                                                                     
+                                                          13:15                                                                                                     
+                                                          13:30                                                                                                     
+                                                          13:45                                                                                                     
+                                                          14:00                                                                                                     
+                                                          14:15                                                                                                     
+                                                          14:30                                                                                                     
+                                                          14:45                                                                                                     
+                                                          15:00                                                                                                     
+                                                          15:15                                                                                                     
+                                                          15:30                                                                                                     
+                                                          15:45                                                                                                     
+                                                          16:00                                                                                                     
+                                                          16:15                                                                                                     
+                                                          16:30                                                                                                     
+                                                          16:45                                                                                                     
+                                                          17:00                                                                                                     
+                                                          17:15                                                                                                     
+                                                          17:30                                                                                                     
+                                                          17:45                                                                                                     
+                                                          18:00                                                                                                     
+                                                          18:15 A9, MG                                                                                              
+                                                          18:30                                                                                                     
+                                                          18:45                                                                                                     
+                                                          19:00                                                                                                     
+                                                          19:15                                                                                                     
+                                                          19:30              URBAN ENGINEERING // THEORY OF SPATIAL PLANNING                                        
+                                                          19:45                                                                                                     
+                                                          20:00                                                                                                     
+                                                          20:15                   LECTURE                                                                           
+                                                          20:30                   ONLINE                                                                            
+                                                          20:45 A9, MG                                                                                              
                                                           07:00                                                                                                     
                                                           07:15                                                                                                     
                                                           07:30                                                                                                     
@@ -184,6 +240,7 @@ PDF SHA256: e92f02e60e2229a5e19a9fea572f867275deee4d1801b7610ad7ca9a6a3a15e5
                                                           20:15                                                                                                     
                                                           20:30                                                                                                     
                                                           20:45                                                                                                     
+                                                                                  FRIDAY                                                                            
                                                           07:00                                                                                                     
                                                           07:15                                                                                                     
                                                           07:30                                                                                                     
@@ -197,7 +254,7 @@ PDF SHA256: e92f02e60e2229a5e19a9fea572f867275deee4d1801b7610ad7ca9a6a3a15e5
                                                           9:30                                                                                                      
                                                           9:45                                                                                                      
                                                           10:00                                                                                                     
-                                                          10:15                                                                                                     
+                                                          10:15                           MODULE 1A: PUBLIC UTILITY BUILDINGS DESIGN                                
                                                           10:30                                                                                                     
                                                           10:45                                                                                                     
                                                           11:00                                                                                                     
@@ -208,74 +265,16 @@ PDF SHA256: e92f02e60e2229a5e19a9fea572f867275deee4d1801b7610ad7ca9a6a3a15e5
                                                           12:15                                                                                                     
                                                           12:30                                                                                                     
                                                           12:45                                                                                                     
-                                                          13:00                                                                                                     
+                                                          13:00                    A9, MG, 2 grupy                                                                  
                                                           13:15                                                                                                     
                                                           13:30                                                                                                     
-                                                          13:45                                                                                                     
+                                                          13:45                       MODLULE 1B: ARCHITECTURAL AND CONSTRUCTION DESIGN: BUILDING STRUCTURES        
                                                           14:00                                                                                                     
                                                           14:15                                                                                                     
-                                                          14:30                                                                                                     
+                                                          14:30                    A4, RP, 2 grupy                                                                  
                                                           14:45                                                                                                     
                                                           15:00                                                                                                     
                                                           15:15                                                                                                     
-                                                          15:30                                                                                                     
-                                                          15:45                                                                                                     
-                                                          16:00                                                                                                     
-                                                          16:15                                                                                                     
-                                                          16:30                                                                                                     
-                                                          16:45                                                                                                     
-                                                          17:00                                                                                                     
-                                                          17:15                                                                                                     
-                                                          17:30                                                                                                     
-                                                          17:45                                                                                                     
-                                                          18:00                                                                                                     
-                                                          18:15                                                                                                     
-                                                          18:30                                                                                                     
-                                                          18:45                                                                                                     
-                                                          19:00                                                                                                     
-                                                          19:15                                                                                                     
-                                                          19:30                                                                                                     
-                                                          19:45                                                                                                     
-                                                          20:00                                                                                                     
-                                                          20:15                                                                                                     
-                                                          20:30                                                                                                     
-                                                          20:45                                                                                                     
-                                                          07:00                                                                                                     
-                                                          07:15                                                                                                     
-                                                          07:30                                                                                                     
-                                                          07:45                                                                                                     
-                                                          8:00                                                                                                      
-                                                          8:15                                                                                                      
-                                                          8:30                                                                                                      
-                                                          8:45                                                                                                      
-                                                          9:00                                                                                                      
-                                                          9:15                                                                                                      
-                                                          9:30                                                                                                      
-                                                          9:45                                                                                                      
-                                                          10:00                                                                                                     
-                                                          10:15                                                                                                     
-                                                          10:30                                                                                                     
-                                                          10:45                                                                                                     
-                                                          11:00                                                                                                     
-                                                          11:15                                                                                                     
-                                                          11:30                                                                                                     
-                                                          11:45                                                                                                     
-                                                          12:00                                                                                                     
-                                                          12:15                                                                                                     
-                                                          12:30                                                                                                     
-                                                          12:45                                                                                                     
-                                                          13:00                                                                                                     
-                                                          13:15                                                                                                     
-                                                          13:30                                                                                                     
-                                                          13:45                                                                                                     
-                                                          14:00                                                                                                     
-                                                          14:15                                                                                                     
-                                                          14:30                                                                                                     
-                                                          14:45                                                                                                     
-                                                          15:00                                                                                                     
-                                                          15:15                                                                                                     
-                                                          15:30                                                                                                     
-                                                          15:45                                                                                                     
                                                                        DESIGN                                                                                       
                                                                        STUDIO                                                                                       
                                                                        P5                                                                                           
@@ -284,16 +283,11 @@ PDF SHA256: e92f02e60e2229a5e19a9fea572f867275deee4d1801b7610ad7ca9a6a3a15e5
                                                                           THEORY OF ARCHITECTURAL AND URBAN DESIGN WITH ELEMENTS OF ERGONOMICS                      
                                                                                   LECTURE                                                                           
                                                                                   ONLINE                                                                            
-                                                                             URBAN ENGINEERING // THEORY OF SPATIAL PLANNING                                        
-                                                                                  LECTURE                                                                           
-                                                                                  ONLINE                                                                            
                                                                                  THURSDAY                                                                           
-                                                                                  FRIDAY                                                                            
-                                                                                          MODULE 1A: PUBLIC UTILITY BUILDINGS DESIGN                                
-                                                                                      MODLULE 1B: ARCHITECTURAL AND CONSTRUCTION DESIGN: BUILDING STRUCTURES        
                                                                        DESIGN                                                                                       
                                                                        STUDIO                                                                                       
                                                                        S3                                                                                           
+                                                                                       MODULE 2A: SPATIAL AND REGIONAL PLANNING AND URBAN ENGINEERING               
                                                                                  WEDNESDAY                                                                          
                                                                        DESIGN                                                                                       
                                                                        STUDIO                                                                                       
@@ -305,12 +299,16 @@ PDF SHA256: e92f02e60e2229a5e19a9fea572f867275deee4d1801b7610ad7ca9a6a3a15e5
                                                                                   ONLINE                                                                            
                                                                                HERITAGE PROTECTION – IDENTIFICATION                                                 
                                                                                   LECTURE                                                                           
-                                                                                  ROOM K                                                                            
+                                                                                  ROOM K208                                                                         
                                                                                HERITAGE PROTECTION – IDENTIFICATION                                                 
                                                                                   LECTURE                                                                           
                                                                                   ROOM K                                                                            
+                                                                                LANDSCAPE ARCHITECTURE                                                              
+                                                                                ONLINE - classes strat's 23.11.2026                                                 
+                                                                                   LECTURE                                                                          
                                                                                   TUESDAY                                                                           
-                                                                                       MODULE 2A: SPATIAL AND REGIONAL PLANNING AND URBAN ENGINEERING               
+                                                          15:30                                                                                                     
+                                                          15:45                                                                                                     
                                                           16:00                                                                                                     
                                                           16:15                                                                                                     
                                                           16:30                                                                                                     
