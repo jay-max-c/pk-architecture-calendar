@@ -3,10 +3,6 @@ name: Update PK Architecture timetable
 on:
   push:
     branches: [main]
-    paths:
-      - "update_calendar.py"
-      - "requirements.txt"
-      - ".github/workflows/update-calendar.yml"
   schedule:
     - cron: "23 */6 * * *"
   workflow_dispatch:
@@ -14,39 +10,28 @@ on:
 permissions:
   contents: write
 
-concurrency:
-  group: pk-architecture-calendar
-  cancel-in-progress: true
-
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
-
       - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
-
-      - name: Show checked-out revision
-        run: |
-          echo "Commit: $GITHUB_SHA"
-          grep -n "TABLE_FILE.write_text" update_calendar.py
-
       - name: Install dependencies
         run: pip install -r requirements.txt
-
-      - name: Fetch and extract official timetable
+      - name: Fetch official timetable
         run: python update_calendar.py
-
+      - name: Validate calendar feed exists
+        run: test -f PK_Y1S1_2026.ics
       - name: Commit source changes
         run: |
           git config user.name "pk-calendar-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add source-state.json latest_schedule.txt latest_tables.json
+          git add source-state.json latest_schedule.txt latest_tables.json PK_Y1S1_2026.ics
           if git diff --cached --quiet; then
-            echo "No source changes."
+            echo "No changes."
           else
-            git commit -m "Update official PK timetable source"
+            git commit -m "Update PK timetable source"
             git push
           fi
