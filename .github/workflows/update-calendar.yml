@@ -28,6 +28,11 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Show checked-out revision
+        run: |
+          echo "Commit: $GITHUB_SHA"
+          grep -n "TABLE_FILE.write_text" update_calendar.py
+
       - name: Install dependencies
         run: pip install -r requirements.txt
 
