@@ -1,0 +1,4 @@
+{
+  "_comment": "Manual layer for professor emails, room changes, online links, cancellations and special dates. These values will take priority over the official timetable once calendar generation is enabled.",
+  "events": []
+}
