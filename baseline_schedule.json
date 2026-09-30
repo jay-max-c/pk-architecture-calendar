@@ -1,0 +1,100 @@
+{
+  "_source": "Parsed from 2026-27_semestr_1_ST_2_EN.pdf",
+  "_note": "Current validated baseline. Professor/email changes belong in overrides.json.",
+  "semester": {
+    "timezone": "Europe/Warsaw",
+    "teaching_end": "2027-02-02"
+  },
+  "events": [
+    {
+      "key": "mon-building-structures",
+      "day": "MO",
+      "start": "07:45",
+      "end": "10:45",
+      "summary": "Building Structures",
+      "location": "ONLINE",
+      "description": "Lecture"
+    },
+    {
+      "key": "mon-heritage-1",
+      "day": "MO",
+      "start": "10:45",
+      "end": "12:15",
+      "summary": "Heritage Protection – Identification",
+      "location": "Room K, Faculty of Architecture, Warszawska 24, Kraków",
+      "description": "Lecture"
+    },
+    {
+      "key": "mon-heritage-2",
+      "day": "MO",
+      "start": "12:30",
+      "end": "14:45",
+      "summary": "Heritage Protection – Identification",
+      "location": "Room K, Faculty of Architecture, Warszawska 24, Kraków",
+      "description": "Lecture"
+    },
+    {
+      "key": "tue-studio-2a",
+      "day": "TU",
+      "start": "17:00",
+      "end": "20:00",
+      "summary": "Design Studio S3 — Module 2A",
+      "location": "Studio S3, Faculty of Architecture, Warszawska 24, Kraków",
+      "description": "Spatial and Regional Planning and Urban Engineering"
+    },
+    {
+      "key": "wed-studio-2a",
+      "day": "WE",
+      "start": "08:00",
+      "end": "09:45",
+      "summary": "Design Studio S3 — Module 2A",
+      "location": "Studio S3, Faculty of Architecture, Warszawska 24, Kraków",
+      "description": "Spatial and Regional Planning and Urban Engineering"
+    },
+    {
+      "key": "wed-studio-2b",
+      "day": "WE",
+      "start": "09:45",
+      "end": "11:15",
+      "summary": "Design Studio S3 — Module 2B",
+      "location": "Studio S3, Faculty of Architecture, Warszawska 24, Kraków",
+      "description": "Protection of Historic Urban Complexes"
+    },
+    {
+      "key": "wed-theory-design",
+      "day": "WE",
+      "start": "17:00",
+      "end": "18:30",
+      "summary": "Theory of Architectural and Urban Design with Elements of Ergonomics",
+      "location": "ONLINE",
+      "description": "Lecture"
+    },
+    {
+      "key": "wed-urban-theory",
+      "day": "WE",
+      "start": "19:15",
+      "end": "20:45",
+      "summary": "Urban Engineering / Theory of Spatial Planning",
+      "location": "ONLINE",
+      "description": "Lecture"
+    },
+    {
+      "key": "fri-studio-1a",
+      "day": "FR",
+      "start": "08:00",
+      "end": "13:15",
+      "summary": "Design Studio P5 — Module 1A",
+      "location": "Studio P5, Faculty of Architecture, Warszawska 24, Kraków",
+      "description": "Public Utility Buildings Design"
+    },
+    {
+      "key": "fri-module-1b",
+      "day": "FR",
+      "start": "13:15",
+      "end": "14:30",
+      "summary": "Module 1B — Architectural and Construction Design",
+      "location": "Faculty of Architecture, Warszawska 24, Kraków",
+      "description": "Building Structures"
+    }
+  ]
+}
