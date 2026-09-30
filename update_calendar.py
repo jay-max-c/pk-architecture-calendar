@@ -103,7 +103,7 @@ def main():
         + text,
         encoding="utf-8",
     )
-    TABLE_FILE.write_text(json.dumps(all_tables, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    TABLE_FILE.write_text(json.dumps(tables, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     STATE_FILE.write_text(json.dumps(state, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
     print(json.dumps(state, ensure_ascii=False, indent=2))
