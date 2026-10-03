@@ -15,22 +15,29 @@
       "end": "17:00",
       "count": 8,
       "location": "Microsoft Teams",
-      "note": "End time not stated in professor email; 90-minute slot used pending confirmation."
+      "note": "End time not stated in professor email; 90-minute slot used pending confirmation.",
+      "professor": "Mateusz Gyurkovich"
     },
     {
       "key": "fri-studio-1a",
-      "location": "Room P5, Faculty of Architecture, Podchorążych 1, 30-084 Kraków, Poland",
-      "note": "First class 9 Oct 2026 at 08:00 in Room P5; Damian Poklewski-Koziełł."
+      "location": "Podchorążych 1, 30-084 Kraków, Poland",
+      "note": "First class 9 Oct 2026 at 08:00 in Room P5; Damian Poklewski-Koziełł.",
+      "room": "P5",
+      "professor": "Damian Poklewski-Koziełł"
     },
     {
       "key": "mon-heritage-1",
       "start_date": "2026-10-12",
-      "location": "Room K, Kanonicza 1, 31-002 Kraków, Poland"
+      "location": "Kanonicza 1, 31-002 Kraków, Poland",
+      "room": "K",
+      "professor": "dr eng. arch. Dominika Długosz"
     },
     {
       "key": "mon-heritage-2",
       "start_date": "2026-10-12",
-      "location": "Room K, Kanonicza 1, 31-002 Kraków, Poland"
+      "location": "Kanonicza 1, 31-002 Kraków, Poland",
+      "room": "K",
+      "professor": "dr eng. arch. Dominika Długosz"
     }
   ],
   "single_events": [
@@ -40,8 +47,9 @@
       "date": "2026-10-05",
       "start": "12:30",
       "end": "14:45",
-      "location": "Room 202, 2nd floor, Kanonicza 1, 31-002 Kraków, Poland",
-      "instructor": "dr eng. arch. Dominika Długosz"
+      "location": "Kanonicza 1, 31-002 Kraków, Poland",
+      "instructor": "dr eng. arch. Dominika Długosz",
+      "room": "202, 2nd floor"
     }
   ],
   "alerts": {
