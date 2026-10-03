@@ -1,4 +1,51 @@
 {
-  "_comment": "Manual layer for professor emails, room changes, online links, cancellations and special dates. These values will take priority over the official timetable once calendar generation is enabled.",
-  "events": []
+  "_comment": "Manual layer for professor emails, room changes, online links, cancellations and special dates. Professor announcements take priority over the official timetable PDF.",
+  "events": [
+    {
+      "key": "mon-building-structures",
+      "disabled": true,
+      "note": "Replaced by professor announcement: 8 Friday online lectures on Microsoft Teams starting 9 Oct 2026 at 15:30."
+    },
+    {
+      "key": "fri-building-structures-teams",
+      "summary": "Building Structures — Lecture",
+      "day": "FR",
+      "start_date": "2026-10-09",
+      "start": "15:30",
+      "end": "17:00",
+      "count": 8,
+      "location": "Microsoft Teams",
+      "note": "End time not stated in professor email; 90-minute slot used pending confirmation."
+    },
+    {
+      "key": "fri-studio-1a",
+      "location": "Room P5, Faculty of Architecture, Podchorążych 1, 30-084 Kraków, Poland",
+      "note": "First class 9 Oct 2026 at 08:00 in Room P5; Damian Poklewski-Koziełł."
+    },
+    {
+      "key": "mon-heritage-1",
+      "start_date": "2026-10-12",
+      "location": "Room K, Kanonicza 1, 31-002 Kraków, Poland"
+    },
+    {
+      "key": "mon-heritage-2",
+      "start_date": "2026-10-12",
+      "location": "Room K, Kanonicza 1, 31-002 Kraków, Poland"
+    }
+  ],
+  "single_events": [
+    {
+      "key": "heritage-first-meeting-20261005",
+      "summary": "Heritage Protection – Identification — First Meeting",
+      "date": "2026-10-05",
+      "start": "12:30",
+      "end": "14:45",
+      "location": "Room 202, 2nd floor, Kanonicza 1, 31-002 Kraków, Poland",
+      "instructor": "dr eng. arch. Dominika Długosz"
+    }
+  ],
+  "alerts": {
+    "fixed_minutes_before": 10,
+    "time_to_leave_for_physical_locations": true
+  }
 }
