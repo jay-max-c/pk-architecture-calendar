@@ -3,20 +3,13 @@
   "events": [
     {
       "key": "mon-building-structures",
-      "disabled": true,
-      "note": "Replaced by professor announcement: 8 Friday online lectures on Microsoft Teams starting 9 Oct 2026 at 15:30."
-    },
-    {
-      "key": "fri-building-structures-teams",
-      "summary": "Building Structures — Lecture",
-      "day": "FR",
-      "start_date": "2026-10-09",
-      "start": "15:30",
-      "end": "17:00",
-      "count": 8,
+      "disabled": false,
+      "day": "MO",
+      "start": "07:45",
+      "end": "10:45",
       "location": "Microsoft Teams",
-      "note": "End time not stated in professor email; 90-minute slot used pending confirmation.",
-      "professor": "Mateusz Gyurkovich"
+      "professor": "dr inż. arch. S. Jurczakiewicz, prof. PK",
+      "note": "Official Year 1 Semester 1 timetable: Monday 07:45–10:45, ONLINE, A4/SJ. User confirms Microsoft Teams platform."
     },
     {
       "key": "fri-studio-1a",
@@ -38,6 +31,30 @@
       "location": "Kanonicza 1, 31-002 Kraków, Poland",
       "room": "K",
       "professor": "dr eng. arch. Dominika Długosz"
+    },
+    {
+      "key": "wed-studio-2b",
+      "location": "Warszawska 24, 31-155 Kraków, Poland",
+      "room": "S3",
+      "professor": "prof. dr hab. inż. arch. Dominika Kuśnierz-Krupa",
+      "note": "First class confirmed by instructor message: Wednesday 7 Oct 2026 at 09:45 in room S3, Warszawska St. building."
+    },
+    {
+      "key": "wed-theory-design",
+      "disabled": true,
+      "note": "Superseded by professor announcement: 8 online Friday lectures beginning 9 Oct 2026 at 15:30."
+    },
+    {
+      "key": "fri-theory-design-lectures",
+      "summary": "Theory of Architectural and Urban Design with Elements of Ergonomics",
+      "day": "FR",
+      "start_date": "2026-10-09",
+      "start": "15:30",
+      "end": "17:00",
+      "count": 8,
+      "location": "ONLINE",
+      "professor": "prof. dr hab. inż. arch. Mateusz Gyurkovich",
+      "note": "Professor announcement: lectures start Friday 9 Oct 2026 at 15:30 and are always on Fridays; 8 online lectures, 15 hours total. End time is not stated in the message; 17:00 remains a temporary placeholder until the detailed schedule PDF is parsed."
     }
   ],
   "single_events": [
