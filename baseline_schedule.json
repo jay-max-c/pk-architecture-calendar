@@ -22,7 +22,7 @@
       "end": "12:15",
       "summary": "Heritage Protection – Identification",
       "location": "Kanonicza 1, 31-002 Kraków, Poland",
-      "description": "Room K. Instructor: dr eng. arch. Dominika Długosz. Heritage Protection – Identification."
+      "description": "Room K208. Official timetable code: A1 / DP. Heritage Protection – Identification."
     },
     {
       "key": "mon-heritage-2",
@@ -69,28 +69,38 @@
     {
       "key": "wed-urban-theory",
       "day": "WE",
-      "start": "19:15",
+      "start": "19:30",
       "end": "20:45",
       "summary": "Urban Engineering / Theory of Spatial Planning",
       "location": "ONLINE",
-      "description": "Lecture"
+      "description": "Lecture. Official timetable: ONLINE, A9 / MG."
     },
     {
       "key": "fri-studio-1a",
       "day": "FR",
       "start": "08:00",
       "end": "13:15",
-      "summary": "Design Studio — Module 1A",
+      "summary": "Design Studio P5 — Module 1A",
       "location": "Podchorążych 1, 30-084 Kraków, Poland",
-      "description": "Room P5. Instructor: Damian Poklewski-Koziełł. Public Utility Buildings Design."
+      "description": "Room P5. Module 1A: Public Utility Buildings Design. Official timetable code: A9 / MG, 2 groups."
     },
     {
       "key": "fri-module-1b",
       "day": "FR",
       "start": "13:15",
       "end": "14:30",
-      "summary": "Module 1B — Architectural and Construction Design",
-      "description": "Building Structures. Classroom and instructor not yet confirmed."
+      "summary": "Design Studio P5 — Module 1B",
+      "description": "Module 1B: Architectural and Construction Design: Building Structures. Official timetable code: A4 / RP, 2 groups."
+    },
+    {
+      "key": "mon-landscape-architecture",
+      "day": "MO",
+      "start": "17:00",
+      "end": "18:30",
+      "start_date": "2026-11-23",
+      "summary": "Landscape Architecture",
+      "location": "ONLINE",
+      "description": "Lecture. Official timetable states classes start 23 Nov 2026."
     }
   ]
 }
