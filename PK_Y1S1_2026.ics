@@ -43,14 +43,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tue-studio-2a@pk-architecture-calendar
-SUMMARY:Design Studio — Module 2A
+SUMMARY:Design Studio S3 — Module 2A
 DTSTART;TZID=Europe/Warsaw:20261006T170000
 DTEND;TZID=Europe/Warsaw:20261006T200000
 RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20270202T225959Z
 EXDATE;TZID=Europe/Warsaw:20261229T170000
 EXDATE;TZID=Europe/Warsaw:20270105T170000
 EXDATE;TZID=Europe/Warsaw:20270202T170000
-DESCRIPTION:Room S3. Spatial and Regional Planning and Urban Engineering.
+DESCRIPTION:Design Studio S3. Module 2A: Spatial and Regional Planning and Urban Engineering. Professors: dr hab. inż. arch. Rafał Blazy, prof. PK; dr hab. inż. arch. Matylda Wdowiarz-Bilska, prof. PK. Chair A-5.
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
@@ -59,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wed-studio-2a@pk-architecture-calendar
-SUMMARY:Design Studio — Module 2A
+SUMMARY:Design Studio S3 — Module 2A
 DTSTART;TZID=Europe/Warsaw:20261007T080000
 DTEND;TZID=Europe/Warsaw:20261007T094500
 RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20270202T225959Z
@@ -67,7 +67,7 @@ EXDATE;TZID=Europe/Warsaw:20261111T080000
 EXDATE;TZID=Europe/Warsaw:20261223T080000
 EXDATE;TZID=Europe/Warsaw:20261230T080000
 EXDATE;TZID=Europe/Warsaw:20270106T080000
-DESCRIPTION:Room S3. Spatial and Regional Planning and Urban Engineering.
+DESCRIPTION:Design Studio S3. Module 2A: Spatial and Regional Planning and Urban Engineering. Professors: dr hab. inż. arch. Rafał Blazy, prof. PK; dr hab. inż. arch. Matylda Wdowiarz-Bilska, prof. PK. Chair A-5.
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
@@ -76,7 +76,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wed-studio-2b@pk-architecture-calendar
-SUMMARY:Design Studio — Module 2B
+SUMMARY:Design Studio S3 — Module 2B
 DTSTART;TZID=Europe/Warsaw:20261007T094500
 DTEND;TZID=Europe/Warsaw:20261007T111500
 RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20270202T225959Z
@@ -84,7 +84,7 @@ EXDATE;TZID=Europe/Warsaw:20261111T094500
 EXDATE;TZID=Europe/Warsaw:20261223T094500
 EXDATE;TZID=Europe/Warsaw:20261230T094500
 EXDATE;TZID=Europe/Warsaw:20270106T094500
-DESCRIPTION:Room S3. Protection of Historic Urban Complexes.
+DESCRIPTION:Design Studio S3. Module 2B: Protection of Historic Urban Ensembles. Professor: prof. dr hab. inż. arch. Dominika Kuśnierz-Krupa. Chair A-1.
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
@@ -129,14 +129,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fri-studio-1a@pk-architecture-calendar
-SUMMARY:Design Studio — Module 1A
+SUMMARY:Design Studio S3 — Module 1A
 DTSTART;TZID=Europe/Warsaw:20261009T080000
 DTEND;TZID=Europe/Warsaw:20261009T131500
 RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20270202T225959Z
 EXDATE;TZID=Europe/Warsaw:20261225T080000
 EXDATE;TZID=Europe/Warsaw:20270101T080000
 LOCATION:Podchorążych 1\, 30-084 Kraków\, Poland
-DESCRIPTION:Room P5. Instructor: Damian Poklewski-Koziełł. Public Utility Buildings Design. First class: 9 Oct 2026 at 08:00.
+DESCRIPTION:Room P5 (2nd floor). Design Studio S3, Module 1A: Public Utility Buildings Design. Official studio professor: prof. dr hab. inż. arch. Mateusz Gyurkovich (A-9). First-class instructor/message: Damian Poklewski-Koziełł. First class: 9 Oct 2026 at 08:00.
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -146,13 +146,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fri-module-1b@pk-architecture-calendar
-SUMMARY:Module 1B — Architectural and Construction Design
+SUMMARY:Design Studio S3 — Module 1B
 DTSTART;TZID=Europe/Warsaw:20261009T131500
 DTEND;TZID=Europe/Warsaw:20261009T143000
 RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20270202T225959Z
 EXDATE;TZID=Europe/Warsaw:20261225T131500
 EXDATE;TZID=Europe/Warsaw:20270101T131500
-DESCRIPTION:Building Structures. Classroom and instructor not yet confirmed.
+DESCRIPTION:Design Studio S3, Module 1B: Architectural and Construction Design: Building Structures. Professor: dr inż. Roman Paruch, prof. PK. Chair A-4. Classroom not yet confirmed.
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
@@ -161,10 +161,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wed-studio-2a-makeup-2027-01-28@pk-architecture-calendar
-SUMMARY:Design Studio — Module 2A
+SUMMARY:Design Studio S3 — Module 2A
 DTSTART;TZID=Europe/Warsaw:20270128T080000
 DTEND;TZID=Europe/Warsaw:20270128T094500
-DESCRIPTION:Room S3. Spatial and Regional Planning and Urban Engineering. Wednesday timetable replacement.
+DESCRIPTION:Design Studio S3. Module 2A: Spatial and Regional Planning and Urban Engineering. Professors: dr hab. inż. arch. Rafał Blazy, prof. PK; dr hab. inż. arch. Matylda Wdowiarz-Bilska, prof. PK. Chair A-5. Wednesday timetable replacement.
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
@@ -173,10 +173,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wed-studio-2b-makeup-2027-01-28@pk-architecture-calendar
-SUMMARY:Design Studio — Module 2B
+SUMMARY:Design Studio S3 — Module 2B
 DTSTART;TZID=Europe/Warsaw:20270128T094500
 DTEND;TZID=Europe/Warsaw:20270128T111500
-DESCRIPTION:Room S3. Protection of Historic Urban Complexes. Wednesday timetable replacement.
+DESCRIPTION:Design Studio S3. Module 2B: Protection of Historic Urban Ensembles. Professor: prof. dr hab. inż. arch. Dominika Kuśnierz-Krupa. Chair A-1. Wednesday timetable replacement.
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
@@ -211,10 +211,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wed-studio-2a-makeup-2027-02-02@pk-architecture-calendar
-SUMMARY:Design Studio — Module 2A
+SUMMARY:Design Studio S3 — Module 2A
 DTSTART;TZID=Europe/Warsaw:20270202T080000
 DTEND;TZID=Europe/Warsaw:20270202T094500
-DESCRIPTION:Room S3. Spatial and Regional Planning and Urban Engineering. Wednesday timetable replacement.
+DESCRIPTION:Design Studio S3. Module 2A: Spatial and Regional Planning and Urban Engineering. Professors: dr hab. inż. arch. Rafał Blazy, prof. PK; dr hab. inż. arch. Matylda Wdowiarz-Bilska, prof. PK. Chair A-5. Wednesday timetable replacement.
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
@@ -223,10 +223,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wed-studio-2b-makeup-2027-02-02@pk-architecture-calendar
-SUMMARY:Design Studio — Module 2B
+SUMMARY:Design Studio S3 — Module 2B
 DTSTART;TZID=Europe/Warsaw:20270202T094500
 DTEND;TZID=Europe/Warsaw:20270202T111500
-DESCRIPTION:Room S3. Protection of Historic Urban Complexes. Wednesday timetable replacement.
+DESCRIPTION:Design Studio S3. Module 2B: Protection of Historic Urban Ensembles. Professor: prof. dr hab. inż. arch. Dominika Kuśnierz-Krupa. Chair A-1. Wednesday timetable replacement.
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
