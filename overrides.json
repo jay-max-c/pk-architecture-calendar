@@ -45,16 +45,70 @@
       "note": "Superseded by professor announcement: 8 online Friday lectures beginning 9 Oct 2026 at 15:30."
     },
     {
-      "key": "fri-theory-design-lectures",
-      "summary": "Theory of Architectural and Urban Design with Elements of Ergonomics",
-      "day": "FR",
-      "start_date": "2026-10-09",
-      "start": "15:30",
-      "end": "17:00",
-      "count": 8,
-      "location": "ONLINE",
-      "professor": "prof. dr hab. inż. arch. Mateusz Gyurkovich",
-      "note": "Professor announcement: lectures start Friday 9 Oct 2026 at 15:30 and are always on Fridays; 8 online lectures, 15 hours total. End time is not stated in the message; 17:00 remains a temporary placeholder until the detailed schedule PDF is parsed."
+      "key": "theory-design-official-schedule",
+      "course": "Theory of Architectural and Urban Design with Elements of Ergonomics",
+      "location": "Microsoft Teams",
+      "course_leader": "Prof. dr hab. inż. arch. Mateusz Gyurkovich",
+      "sessions": [
+        {
+          "date": "2026-10-09",
+          "start": "15:30",
+          "end": "17:00",
+          "lecturer": "dr inż. arch. Damian Poklewski-Koziełł",
+          "topic": "Swimming Pools and Sport Facilities"
+        },
+        {
+          "date": "2026-10-16",
+          "start": "15:30",
+          "end": "17:00",
+          "lecturer": "Prof. M. Arch. Irena Dragiycheva (UACEG)",
+          "topic": "Architecture of the Ritual: Modernism, Socialist Ritual Houses, and Universal Ritual Spaces"
+        },
+        {
+          "date": "2026-10-23",
+          "start": "15:30",
+          "end": "17:00",
+          "lecturer": "M. Arch. Marek Leja (MPOIA)",
+          "topic": "Schools"
+        },
+        {
+          "date": "2026-11-06",
+          "start": "15:30",
+          "end": "17:00",
+          "lecturer": "Prof. dr hab. inż. arch. Mateusz Gyurkovich",
+          "topic": "Museums Objects & Complexes"
+        },
+        {
+          "date": "2026-11-13",
+          "start": "15:30",
+          "end": "17:00",
+          "lecturer": "Dr inż. arch. Wojciech Świątek",
+          "topic": "Conceptual, formal and technical issues in the process of an implementation on the art gallery building in a historical context + BONUS"
+        },
+        {
+          "date": "2026-11-20",
+          "start": "15:30",
+          "end": "17:00",
+          "lecturer": "dr inż. arch. Bartłomiej Homiński",
+          "topic": "Libraries"
+        },
+        {
+          "date": "2026-11-27",
+          "start": "15:30",
+          "end": "17:00",
+          "lecturer": "Dr inż. arch. Natalia Gorgol",
+          "topic": "Shopping Malls"
+        },
+        {
+          "date": "2026-12-04",
+          "start": "15:30",
+          "end": "17:00",
+          "lecturer": "Prof. dr hab. inż. arch. Mateusz Gyurkovich",
+          "topic": "Exam",
+          "note": "TEST – 45 MINUTES"
+        }
+      ],
+      "source_note": "Official lecture-schedule PDF supplied by user; replaces the previous weekly placeholder."
     }
   ],
   "single_events": [
