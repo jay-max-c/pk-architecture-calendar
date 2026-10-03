@@ -13,7 +13,7 @@ from bs4 import BeautifulSoup
 
 ROOT = Path(__file__).resolve().parent
 PLAN_URL = "https://arch.pk.edu.pl/dziekanat/plan-zajec/"
-TARGET_TEXT = "M.D. in English"
+TARGET_TEXT = "Year 1/II: Semester 1 – M.D. in English"
 STATE_FILE = ROOT / "source-state.json"
 TEXT_FILE = ROOT / "latest_schedule.txt"
 TABLE_FILE = ROOT / "latest_tables.json"
@@ -31,34 +31,48 @@ def fetch(url: str) -> bytes:
     return r.content
 
 def find_target_pdf(page_html: bytes) -> str:
+    """Resolve ONLY Year 1 / Semester 1 / second-cycle English timetable.
+
+    The timetable index also contains Year 2 / Semester 3 M.D. in English.
+    Never select by the generic phrase "M.D. in English".
+    """
     soup = BeautifulSoup(page_html, "html.parser")
-    candidates = []
+    exact = []
+
     for a in soup.find_all("a", href=True):
         label = " ".join(a.stripped_strings)
-        href = a["href"]
-        parent_text = " ".join(a.parent.stripped_strings) if a.parent else label
-        context = f"{label} {parent_text}"
-        if TARGET_TEXT.lower() in context.lower():
-            candidates.append(urljoin(PLAN_URL, href))
-    pdfs = [u for u in candidates if ".pdf" in u.lower()]
-    if not pdfs:
-        # Conservative fallback: inspect all PDF links for English / semester-1 / second-cycle hints.
-        for a in soup.find_all("a", href=True):
-            href = urljoin(PLAN_URL, a["href"])
-            label = " ".join(a.stripped_strings)
-            ctx = f"{label} {href}".lower()
-            if ".pdf" in href.lower() and ("english" in ctx or "_en" in ctx) and ("st_2" in ctx or "ii" in ctx):
-                pdfs.append(href)
-    if not pdfs:
-        raise RuntimeError("Could not find the Year 1 / Semester 1 M.D. in English timetable PDF.")
-    # Prefer links that explicitly look like semester 1 / second-cycle / English.
-    pdfs = sorted(set(pdfs), key=lambda u: (
-        "semestr_1" not in u.lower(),
-        "st_2" not in u.lower(),
-        "_en" not in u.lower(),
-        len(u)
-    ))
-    return pdfs[0]
+        href = urljoin(PLAN_URL, a["href"])
+        norm = re.sub(r"\\s+", " ", label).strip().lower()
+
+        # Current page label:
+        # "Year 1/II: Semester 1 – M.D. in English"
+        if (
+            "year 1/ii" in norm
+            and "semester 1" in norm
+            and "m.d. in english" in norm
+            and ".pdf" in href.lower()
+        ):
+            exact.append(href)
+
+    if len(exact) != 1:
+        raise RuntimeError(
+            "Safety stop: expected exactly one Year 1/II Semester 1 M.D. in English PDF, "
+            f"found {len(exact)}: {exact}"
+        )
+
+    pdf_url = exact[0]
+
+    # Additional filename-level safety. This prevents accidental Year-2/semester-3 ingestion.
+    low = pdf_url.lower()
+    bad = ("rok_2" in low or "sem_3" in low or "semester_3" in low)
+    good = (
+        ("rok_1" in low and ("sem_1" in low or "semestr_1" in low))
+        or ("st_2" in low and "semestr_1" in low)
+    )
+    if bad or not good:
+        raise RuntimeError(f"Safety stop: resolved suspicious timetable URL: {pdf_url}")
+
+    return pdf_url
 
 def extract_pdf(pdf_bytes: bytes):
     tmp = ROOT / ".latest_schedule.pdf"
@@ -81,6 +95,17 @@ def main():
     pdf_url = find_target_pdf(page)
     pdf = fetch(pdf_url)
     text, tables = extract_pdf(pdf)
+
+    # Semantic safety check: the downloaded PDF itself must identify Year 1 / Semester I.
+    upper = text.upper()
+    if "SEMESTER I YEAR 1 MASTER" not in upper:
+        raise RuntimeError(
+            "Safety stop: downloaded PDF is not Semester I / Year 1 Master's Degree Studies."
+        )
+    if "SEMESTER III YEAR 2 MASTER" in upper:
+        raise RuntimeError(
+            "Safety stop: Year 2 / Semester III timetable was downloaded by mistake."
+        )
 
     previous = {}
     if STATE_FILE.exists():
