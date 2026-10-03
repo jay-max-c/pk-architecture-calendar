@@ -15,7 +15,7 @@ EXDATE;TZID=Europe/Warsaw:20261102T104500
 EXDATE;TZID=Europe/Warsaw:20261228T104500
 EXDATE;TZID=Europe/Warsaw:20270104T104500
 LOCATION:Kanonicza 1\, 31-002 Kraków\, Poland
-DESCRIPTION:Room K. Instructor: dr eng. arch. Dominika Długosz. Heritage Protection – Identification.
+DESCRIPTION:Room K208. Course code on official timetable: A1 / DP. Heritage Protection – Identification. Regular timetable begins 10:45.
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -96,15 +96,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:wed-urban-theory@pk-architecture-calendar
 SUMMARY:Urban Engineering / Theory of Spatial Planning
-DTSTART;TZID=Europe/Warsaw:20261007T191500
+DTSTART;TZID=Europe/Warsaw:20261007T193000
 DTEND;TZID=Europe/Warsaw:20261007T204500
 RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20270202T225959Z
-EXDATE;TZID=Europe/Warsaw:20261111T191500
-EXDATE;TZID=Europe/Warsaw:20261223T191500
-EXDATE;TZID=Europe/Warsaw:20261230T191500
-EXDATE;TZID=Europe/Warsaw:20270106T191500
+EXDATE;TZID=Europe/Warsaw:20261111T193000
+EXDATE;TZID=Europe/Warsaw:20261223T193000
+EXDATE;TZID=Europe/Warsaw:20261230T193000
+EXDATE;TZID=Europe/Warsaw:20270106T193000
 LOCATION:ONLINE
-DESCRIPTION:Lecture
+DESCRIPTION:Lecture. Official timetable: Wednesday 19:30–20:45, ONLINE, A9 / MG.
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
@@ -113,14 +113,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fri-studio-1a@pk-architecture-calendar
-SUMMARY:Design Studio S3 — Module 1A
+SUMMARY:Design Studio P5 — Module 1A
 DTSTART;TZID=Europe/Warsaw:20261009T080000
 DTEND;TZID=Europe/Warsaw:20261009T131500
 RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20270202T225959Z
 EXDATE;TZID=Europe/Warsaw:20261225T080000
 EXDATE;TZID=Europe/Warsaw:20270101T080000
 LOCATION:Podchorążych 1\, 30-084 Kraków\, Poland
-DESCRIPTION:Room P5 (2nd floor). Design Studio S3, Module 1A: Public Utility Buildings Design. Official studio professor: prof. dr hab. inż. arch. Mateusz Gyurkovich (A-9). First-class instructor/message: Damian Poklewski-Koziełł. First class: 9 Oct 2026 at 08:00.
+DESCRIPTION:Room P5 (2nd floor). Design Studio P5, Module 1A: Public Utility Buildings Design. Official timetable code: A9 / MG, 2 groups. First-class message: Damian Poklewski-Koziełł. First class: 9 Oct 2026 at 08:00.
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -130,13 +130,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fri-module-1b@pk-architecture-calendar
-SUMMARY:Design Studio S3 — Module 1B
+SUMMARY:Design Studio P5 — Module 1B
 DTSTART;TZID=Europe/Warsaw:20261009T131500
 DTEND;TZID=Europe/Warsaw:20261009T143000
 RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20270202T225959Z
 EXDATE;TZID=Europe/Warsaw:20261225T131500
 EXDATE;TZID=Europe/Warsaw:20270101T131500
-DESCRIPTION:Design Studio S3, Module 1B: Architectural and Construction Design: Building Structures. Professor: dr inż. Roman Paruch, prof. PK. Chair A-4. Classroom not yet confirmed.
+DESCRIPTION:Design Studio P5, Module 1B: Architectural and Construction Design: Building Structures. Official timetable code: A4 / RP, 2 groups. Professor: dr inż. Roman Paruch, prof. PK. Classroom not yet confirmed.
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
@@ -172,10 +172,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:wed-urban-theory-makeup-2027-01-28@pk-architecture-calendar
 SUMMARY:Urban Engineering / Theory of Spatial Planning
-DTSTART;TZID=Europe/Warsaw:20270128T191500
+DTSTART;TZID=Europe/Warsaw:20270128T193000
 DTEND;TZID=Europe/Warsaw:20270128T204500
 LOCATION:ONLINE
-DESCRIPTION:Lecture - Wednesday timetable replacement
+DESCRIPTION:Lecture. Wednesday timetable replacement. Official regular timetable: 19:30–20:45, ONLINE, A9 / MG.
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
@@ -211,10 +211,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:wed-urban-theory-makeup-2027-02-02@pk-architecture-calendar
 SUMMARY:Urban Engineering / Theory of Spatial Planning
-DTSTART;TZID=Europe/Warsaw:20270202T191500
+DTSTART;TZID=Europe/Warsaw:20270202T193000
 DTEND;TZID=Europe/Warsaw:20270202T204500
 LOCATION:ONLINE
-DESCRIPTION:Lecture - Wednesday timetable replacement
+DESCRIPTION:Lecture. Wednesday timetable replacement. Official regular timetable: 19:30–20:45, ONLINE, A9 / MG.
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
@@ -260,6 +260,22 @@ DTEND;TZID=Europe/Warsaw:20261009T170000
 RRULE:FREQ=WEEKLY;BYDAY=FR;COUNT=8
 LOCATION:ONLINE
 DESCRIPTION:Professor: prof. dr hab. inż. arch. Mateusz Gyurkovich (A9 / MG). Instructor announcement: lectures start Friday 9 Oct 2026 at 15:30 and will be held on Fridays; 8 online lectures total (15 hours). The shared file is titled LECTURES_SCHEDULE_THEORY_OF_A&URBAN_DESIGN_26-27. End time is not stated in the message; 17:00 is a temporary placeholder until the detailed schedule PDF is parsed.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mon-landscape-architecture@pk-architecture-calendar
+SUMMARY:Landscape Architecture
+DTSTART;TZID=Europe/Warsaw:20261123T170000
+DTEND;TZID=Europe/Warsaw:20261123T183000
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20270202T225959Z
+EXDATE;TZID=Europe/Warsaw:20261228T170000
+EXDATE;TZID=Europe/Warsaw:20270104T170000
+LOCATION:ONLINE
+DESCRIPTION:Lecture. Official timetable states classes start 23 Nov 2026. Monday 17:00–18:30, online.
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
