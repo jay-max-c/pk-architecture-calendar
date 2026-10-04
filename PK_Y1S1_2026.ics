@@ -94,24 +94,6 @@ LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 END:VEVENT
 BEGIN:VEVENT
-UID:wed-urban-theory@pk-architecture-calendar
-SUMMARY:Urban Engineering / Theory of Spatial Planning
-DTSTART;TZID=Europe/Warsaw:20261007T193000
-DTEND;TZID=Europe/Warsaw:20261007T204500
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20270202T225959Z
-EXDATE;TZID=Europe/Warsaw:20261111T193000
-EXDATE;TZID=Europe/Warsaw:20261223T193000
-EXDATE;TZID=Europe/Warsaw:20261230T193000
-EXDATE;TZID=Europe/Warsaw:20270106T193000
-LOCATION:ONLINE
-DESCRIPTION:Lecture\nOnline\nOfficial code: A9 / MG\nOfficial timetable: Wednesday 19:30–20:45
-BEGIN:VALARM
-TRIGGER:-PT10M
-ACTION:DISPLAY
-DESCRIPTION:Class starts in 10 minutes
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:fri-studio-1a@pk-architecture-calendar
 SUMMARY:Design Studio P5 — Module 1A
 DTSTART;TZID=Europe/Warsaw:20261009T080000
@@ -170,19 +152,6 @@ LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 END:VEVENT
 BEGIN:VEVENT
-UID:wed-urban-theory-makeup-2027-01-28@pk-architecture-calendar
-SUMMARY:Urban Engineering / Theory of Spatial Planning
-DTSTART;TZID=Europe/Warsaw:20270128T193000
-DTEND;TZID=Europe/Warsaw:20270128T204500
-LOCATION:ONLINE
-DESCRIPTION:Lecture\nOnline\nRegular official time: Wednesday 19:30–20:45\nWednesday timetable replacement
-BEGIN:VALARM
-TRIGGER:-PT10M
-ACTION:DISPLAY
-DESCRIPTION:Class starts in 10 minutes
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:wed-studio-2a-makeup-2027-02-02@pk-architecture-calendar
 SUMMARY:Design Studio S3 — Module 2A
 DTSTART;TZID=Europe/Warsaw:20270202T080000
@@ -207,19 +176,6 @@ DESCRIPTION:Class starts in 10 minutes
 END:VALARM
 LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-END:VEVENT
-BEGIN:VEVENT
-UID:wed-urban-theory-makeup-2027-02-02@pk-architecture-calendar
-SUMMARY:Urban Engineering / Theory of Spatial Planning
-DTSTART;TZID=Europe/Warsaw:20270202T193000
-DTEND;TZID=Europe/Warsaw:20270202T204500
-LOCATION:ONLINE
-DESCRIPTION:Lecture\nOnline\nRegular official time: Wednesday 19:30–20:45\nWednesday timetable replacement
-BEGIN:VALARM
-TRIGGER:-PT10M
-ACTION:DISPLAY
-DESCRIPTION:Class starts in 10 minutes
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:heritage-first-meeting-20261005@pk-architecture-calendar
@@ -269,12 +225,12 @@ DESCRIPTION:Class starts in 10 minutes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:theory-design-lecture-1-2026-10-09@pk-architecture-calendar
+UID:theory-design-2026-10-14@pk-architecture-calendar
 SUMMARY:Theory of Architectural and Urban Design with Elements of Ergonomics
-DTSTART;TZID=Europe/Warsaw:20261009T153000
-DTEND;TZID=Europe/Warsaw:20261009T170000
-LOCATION:Microsoft Teams
-DESCRIPTION:Lecture 1\\nLecturer: dr inż. arch. Damian Poklewski-Koziełł\\nTopic: Swimming Pools and Sport Facilities
+DTSTART;TZID=Europe/Warsaw:20261014T170000
+DTEND;TZID=Europe/Warsaw:20261014T183000
+LOCATION:ONLINE
+DESCRIPTION:Online\nCourse: Theory of Architectural and Urban Design with Elements of Ergonomics\nSchedule: every two weeks on Wednesdays\nFirst lecture: 14 Oct 2026\nTeacher message takes priority over the earlier Friday schedule
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
@@ -282,12 +238,12 @@ DESCRIPTION:Class starts in 10 minutes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:theory-design-lecture-2-2026-10-16@pk-architecture-calendar
+UID:theory-design-2026-10-28@pk-architecture-calendar
 SUMMARY:Theory of Architectural and Urban Design with Elements of Ergonomics
-DTSTART;TZID=Europe/Warsaw:20261016T153000
-DTEND;TZID=Europe/Warsaw:20261016T170000
-LOCATION:Microsoft Teams
-DESCRIPTION:Lecture 2\\nLecturer: Prof. M. Arch. Irena Dragiycheva (UACEG)\\nTopic: Architecture of the Ritual: Modernism\, Socialist Ritual Houses\, and Universal Ritual Spaces
+DTSTART;TZID=Europe/Warsaw:20261028T170000
+DTEND;TZID=Europe/Warsaw:20261028T183000
+LOCATION:ONLINE
+DESCRIPTION:Online\nCourse: Theory of Architectural and Urban Design with Elements of Ergonomics\nSchedule: every two weeks on Wednesdays\nFirst lecture: 14 Oct 2026\nTeacher message takes priority over the earlier Friday schedule
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
@@ -295,12 +251,12 @@ DESCRIPTION:Class starts in 10 minutes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:theory-design-lecture-3-2026-10-23@pk-architecture-calendar
+UID:theory-design-2026-11-11@pk-architecture-calendar
 SUMMARY:Theory of Architectural and Urban Design with Elements of Ergonomics
-DTSTART;TZID=Europe/Warsaw:20261023T153000
-DTEND;TZID=Europe/Warsaw:20261023T170000
-LOCATION:Microsoft Teams
-DESCRIPTION:Lecture 3\\nLecturer: M. Arch. Marek Leja (MPOIA)\\nTopic: Schools
+DTSTART;TZID=Europe/Warsaw:20261111T170000
+DTEND;TZID=Europe/Warsaw:20261111T183000
+LOCATION:ONLINE
+DESCRIPTION:Online\nCourse: Theory of Architectural and Urban Design with Elements of Ergonomics\nSchedule: every two weeks on Wednesdays\nFirst lecture: 14 Oct 2026\nTeacher message takes priority over the earlier Friday schedule
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
@@ -308,12 +264,12 @@ DESCRIPTION:Class starts in 10 minutes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:theory-design-lecture-4-2026-11-06@pk-architecture-calendar
+UID:theory-design-2026-11-25@pk-architecture-calendar
 SUMMARY:Theory of Architectural and Urban Design with Elements of Ergonomics
-DTSTART;TZID=Europe/Warsaw:20261106T153000
-DTEND;TZID=Europe/Warsaw:20261106T170000
-LOCATION:Microsoft Teams
-DESCRIPTION:Lecture 4\\nLecturer: Prof. dr hab. inż. arch. Mateusz Gyurkovich\\nTopic: Museums Objects & Complexes
+DTSTART;TZID=Europe/Warsaw:20261125T170000
+DTEND;TZID=Europe/Warsaw:20261125T183000
+LOCATION:ONLINE
+DESCRIPTION:Online\nCourse: Theory of Architectural and Urban Design with Elements of Ergonomics\nSchedule: every two weeks on Wednesdays\nFirst lecture: 14 Oct 2026\nTeacher message takes priority over the earlier Friday schedule
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
@@ -321,12 +277,12 @@ DESCRIPTION:Class starts in 10 minutes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:theory-design-lecture-5-2026-11-13@pk-architecture-calendar
+UID:theory-design-2026-12-09@pk-architecture-calendar
 SUMMARY:Theory of Architectural and Urban Design with Elements of Ergonomics
-DTSTART;TZID=Europe/Warsaw:20261113T153000
-DTEND;TZID=Europe/Warsaw:20261113T170000
-LOCATION:Microsoft Teams
-DESCRIPTION:Lecture 5\\nLecturer: Dr inż. arch. Wojciech Świątek\\nTopic: Conceptual\, formal and technical issues in the process of an implementation on the art gallery building in a historical context + BONUS
+DTSTART;TZID=Europe/Warsaw:20261209T170000
+DTEND;TZID=Europe/Warsaw:20261209T183000
+LOCATION:ONLINE
+DESCRIPTION:Online\nCourse: Theory of Architectural and Urban Design with Elements of Ergonomics\nSchedule: every two weeks on Wednesdays\nFirst lecture: 14 Oct 2026\nTeacher message takes priority over the earlier Friday schedule
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
@@ -334,12 +290,12 @@ DESCRIPTION:Class starts in 10 minutes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:theory-design-lecture-6-2026-11-20@pk-architecture-calendar
+UID:theory-design-2026-12-23@pk-architecture-calendar
 SUMMARY:Theory of Architectural and Urban Design with Elements of Ergonomics
-DTSTART;TZID=Europe/Warsaw:20261120T153000
-DTEND;TZID=Europe/Warsaw:20261120T170000
-LOCATION:Microsoft Teams
-DESCRIPTION:Lecture 6\\nLecturer: dr inż. arch. Bartłomiej Homiński\\nTopic: Libraries
+DTSTART;TZID=Europe/Warsaw:20261223T170000
+DTEND;TZID=Europe/Warsaw:20261223T183000
+LOCATION:ONLINE
+DESCRIPTION:Online\nCourse: Theory of Architectural and Urban Design with Elements of Ergonomics\nSchedule: every two weeks on Wednesdays\nFirst lecture: 14 Oct 2026\nTeacher message takes priority over the earlier Friday schedule
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
@@ -347,12 +303,12 @@ DESCRIPTION:Class starts in 10 minutes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:theory-design-lecture-7-2026-11-27@pk-architecture-calendar
+UID:theory-design-2027-01-06@pk-architecture-calendar
 SUMMARY:Theory of Architectural and Urban Design with Elements of Ergonomics
-DTSTART;TZID=Europe/Warsaw:20261127T153000
-DTEND;TZID=Europe/Warsaw:20261127T170000
-LOCATION:Microsoft Teams
-DESCRIPTION:Lecture 7\\nLecturer: Dr inż. arch. Natalia Gorgol\\nTopic: Shopping Malls
+DTSTART;TZID=Europe/Warsaw:20270106T170000
+DTEND;TZID=Europe/Warsaw:20270106T183000
+LOCATION:ONLINE
+DESCRIPTION:Online\nCourse: Theory of Architectural and Urban Design with Elements of Ergonomics\nSchedule: every two weeks on Wednesdays\nFirst lecture: 14 Oct 2026\nTeacher message takes priority over the earlier Friday schedule
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
@@ -360,12 +316,116 @@ DESCRIPTION:Class starts in 10 minutes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:theory-design-lecture-8-2026-12-04@pk-architecture-calendar
+UID:theory-design-2027-01-20@pk-architecture-calendar
 SUMMARY:Theory of Architectural and Urban Design with Elements of Ergonomics
-DTSTART;TZID=Europe/Warsaw:20261204T153000
-DTEND;TZID=Europe/Warsaw:20261204T170000
-LOCATION:Microsoft Teams
-DESCRIPTION:Lecture 8\\nLecturer: Prof. dr hab. inż. arch. Mateusz Gyurkovich\\nTopic: Exam\\nTEST – 45 MINUTES
+DTSTART;TZID=Europe/Warsaw:20270120T170000
+DTEND;TZID=Europe/Warsaw:20270120T183000
+LOCATION:ONLINE
+DESCRIPTION:Online\nCourse: Theory of Architectural and Urban Design with Elements of Ergonomics\nSchedule: every two weeks on Wednesdays\nFirst lecture: 14 Oct 2026\nTeacher message takes priority over the earlier Friday schedule
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:spatial-planning-1-2026-10-14@pk-architecture-calendar
+SUMMARY:Spatial and Regional Planning and Urban Engineering
+DTSTART;TZID=Europe/Warsaw:20261014T193000
+DTEND;TZID=Europe/Warsaw:20261014T210000
+LOCATION:ONLINE
+DESCRIPTION:Lecture 1\nTopic: Introduction to the course and the semester project\nLecturer: D. Ogrodnik\, PhD\nOnline\nOfficial lecture schedule: Wednesday 19:30–21:00
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:spatial-planning-2-2026-10-21@pk-architecture-calendar
+SUMMARY:Spatial and Regional Planning and Urban Engineering
+DTSTART;TZID=Europe/Warsaw:20261021T193000
+DTEND;TZID=Europe/Warsaw:20261021T210000
+LOCATION:ONLINE
+DESCRIPTION:Lecture 2\nTopic: Planning studies\; problem areas and spatial\, functional and social conflicts\nLecturer: R. Blazy\, PhD\, DSc\, CUT Prof.\nOnline\nOfficial lecture schedule: Wednesday 19:30–21:00
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:spatial-planning-3-2026-10-28@pk-architecture-calendar
+SUMMARY:Spatial and Regional Planning and Urban Engineering
+DTSTART;TZID=Europe/Warsaw:20261028T193000
+DTEND;TZID=Europe/Warsaw:20261028T210000
+LOCATION:ONLINE
+DESCRIPTION:Lecture 3\nTopic: Urban programme and services\nLecturer: M. Wdowiarz-Bilska\, PhD\, DSc\, CUT Prof.\nOnline\nOfficial lecture schedule: Wednesday 19:30–21:00
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:spatial-planning-4-2026-11-04@pk-architecture-calendar
+SUMMARY:Spatial and Regional Planning and Urban Engineering
+DTSTART;TZID=Europe/Warsaw:20261104T193000
+DTEND;TZID=Europe/Warsaw:20261104T210000
+LOCATION:ONLINE
+DESCRIPTION:Lecture 4\nTopic: General Plan\nLecturer: M. Łasocha\, PhD\nOnline\nOfficial lecture schedule: Wednesday 19:30–21:00
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:spatial-planning-5-2026-11-18@pk-architecture-calendar
+SUMMARY:Spatial and Regional Planning and Urban Engineering
+DTSTART;TZID=Europe/Warsaw:20261118T193000
+DTEND;TZID=Europe/Warsaw:20261118T210000
+LOCATION:ONLINE
+DESCRIPTION:Lecture 5\nTopic: Environmental conditions and green spaces - theory and practice\nLecturer: J. Błachut\, PhD\nOnline\nOfficial lecture schedule: Wednesday 19:30–21:00
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:spatial-planning-6-2026-11-25@pk-architecture-calendar
+SUMMARY:Spatial and Regional Planning and Urban Engineering
+DTSTART;TZID=Europe/Warsaw:20261125T193000
+DTEND;TZID=Europe/Warsaw:20261125T210000
+LOCATION:ONLINE
+DESCRIPTION:Lecture 6\nTopic: Shaping Spatial Order through Composition and Systems of Spatial Relationships\nLecturer: R. Łabuz\, PhD\nOnline\nOfficial lecture schedule: Wednesday 19:30–21:00
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:spatial-planning-7-2026-12-02@pk-architecture-calendar
+SUMMARY:Spatial and Regional Planning and Urban Engineering
+DTSTART;TZID=Europe/Warsaw:20261202T193000
+DTEND;TZID=Europe/Warsaw:20261202T210000
+LOCATION:ONLINE
+DESCRIPTION:Lecture 7\nTopic: Theories of transport network planning\nLecturer: P. Langer\, PhD\nOnline\nOfficial lecture schedule: Wednesday 19:30–21:00
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:spatial-planning-8-2027-01-27@pk-architecture-calendar
+SUMMARY:Spatial and Regional Planning and Urban Engineering
+DTSTART;TZID=Europe/Warsaw:20270127T193000
+DTEND;TZID=Europe/Warsaw:20270127T210000
+LOCATION:ONLINE
+DESCRIPTION:Lecture 8\nTopic: FINAL ASSESSMENT TEST\nOnline\nOfficial lecture schedule: Wednesday 19:30–21:00
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
