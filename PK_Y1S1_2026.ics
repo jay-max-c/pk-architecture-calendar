@@ -77,7 +77,8 @@ TRIGGER:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:Class starts in 10 minutes
 END:VALARM
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Podchorążych 1\, 30-084 Kraków\, Poland;X-TITLE=Politechnika Krakowska - Wydział Architektury\, Podchorążych 1:geo:50.07150,19.91180
+URL:https://maps.apple/p/~rBn2HZ5Zx_5CZ
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Podchorążych 1\, 30-084 Kraków\, Poland;X-TITLE=Room P5\, Faculty of Architecture:https://maps.apple/p/~rBn2HZ5Zx_5CZ
 END:VEVENT
 BEGIN:VEVENT
 UID:fri-module-1b@pk-architecture-calendar
