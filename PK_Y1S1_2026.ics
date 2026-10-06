@@ -6,42 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:PK Architecture - Y1 S1 2026/27
 X-WR-TIMEZONE:Europe/Warsaw
 BEGIN:VEVENT
-UID:mon-heritage-1@pk-architecture-calendar
-SUMMARY:Heritage Protection – Identification
-DTSTART;TZID=Europe/Warsaw:20261012T104500
-DTEND;TZID=Europe/Warsaw:20261012T121500
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20270202T225959Z
-EXDATE;TZID=Europe/Warsaw:20261102T104500
-EXDATE;TZID=Europe/Warsaw:20261228T104500
-EXDATE;TZID=Europe/Warsaw:20270104T104500
-LOCATION:Kanonicza 1\, 31-002 Kraków\, Poland
-DESCRIPTION:Room: K208\nCourse: Heritage Protection – Identification\nOfficial code: A1 / DP\nRegular time: Monday 10:45–12:15
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-BEGIN:VALARM
-TRIGGER:-PT10M
-ACTION:DISPLAY
-DESCRIPTION:Class starts in 10 minutes
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:mon-heritage-2@pk-architecture-calendar
-SUMMARY:Heritage Protection – Identification
-DTSTART;TZID=Europe/Warsaw:20261012T123000
-DTEND;TZID=Europe/Warsaw:20261012T144500
-RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20270202T225959Z
-EXDATE;TZID=Europe/Warsaw:20261102T123000
-EXDATE;TZID=Europe/Warsaw:20261228T123000
-EXDATE;TZID=Europe/Warsaw:20270104T123000
-LOCATION:Kanonicza 1\, 31-002 Kraków\, Poland
-DESCRIPTION:Room: K\nInstructor: dr eng. arch. Dominika Długosz\nCourse: Heritage Protection – Identification\nRegular time: Monday 12:30–14:45
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-BEGIN:VALARM
-TRIGGER:-PT10M
-ACTION:DISPLAY
-DESCRIPTION:Class starts in 10 minutes
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:tue-studio-2a@pk-architecture-calendar
 SUMMARY:Design Studio S3 — Module 2A
 DTSTART;TZID=Europe/Warsaw:20261006T170000
@@ -177,20 +141,6 @@ DESCRIPTION:Class starts in 10 minutes
 END:VALARM
 LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-END:VEVENT
-BEGIN:VEVENT
-UID:heritage-first-meeting-20261005@pk-architecture-calendar
-SUMMARY:Heritage Protection – Identification — First Meeting
-DTSTART;TZID=Europe/Warsaw:20261005T123000
-DTEND;TZID=Europe/Warsaw:20261005T144500
-LOCATION:Kanonicza 1\, 31-002 Kraków\, Poland
-DESCRIPTION:Room: 202, 2nd floor\nInstructor: dr eng. arch. Dominika Długosz\nFirst meeting and organisational introduction
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-BEGIN:VALARM
-TRIGGER:-PT10M
-ACTION:DISPLAY
-DESCRIPTION:Class starts in 10 minutes
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mon-building-structures@pk-architecture-calendar
@@ -427,6 +377,316 @@ DTSTART;TZID=Europe/Warsaw:20270127T193000
 DTEND;TZID=Europe/Warsaw:20270127T210000
 LOCATION:ONLINE
 DESCRIPTION:Lecture 8\nTopic: FINAL ASSESSMENT TEST\nOnline\nOfficial lecture schedule: Wednesday 19:30–21:00
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hmi-practical-2026-10-05@pk-architecture-calendar
+SUMMARY:Heritage Protection – Identification — Practical
+DTSTART;TZID=Europe/Warsaw:20261005T123000
+DTEND;TZID=Europe/Warsaw:20261005T143000
+LOCATION:Kanonicza 1\, 31-002 Kraków\, Poland
+DESCRIPTION:Room: 202\, 2nd floor\nInstructor: dr eng. arch. Dominika Długosz\nPractical class\nTime: 12:30–14:30
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hmi-practical-2026-10-12@pk-architecture-calendar
+SUMMARY:Heritage Protection – Identification — Practical
+DTSTART;TZID=Europe/Warsaw:20261012T123000
+DTEND;TZID=Europe/Warsaw:20261012T143000
+DESCRIPTION:Practical class\nOutdoor classes\nTime: 12:30–14:30
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hmi-practical-2026-10-19@pk-architecture-calendar
+SUMMARY:Heritage Protection – Identification — Practical
+DTSTART;TZID=Europe/Warsaw:20261019T123000
+DTEND;TZID=Europe/Warsaw:20261019T143000
+DESCRIPTION:Practical class\nOutdoor classes\nTime: 12:30–14:30
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hmi-practical-2026-10-28@pk-architecture-calendar
+SUMMARY:Heritage Protection – Identification — Practical
+DTSTART;TZID=Europe/Warsaw:20261028T123000
+DTEND;TZID=Europe/Warsaw:20261028T143000
+LOCATION:Kanonicza 1\, 31-002 Kraków\, Poland
+DESCRIPTION:Practical class\nTime: 12:30–14:30\nSource conflict: spreadsheet labels this row Monday\, but 28 Oct 2026 is Wednesday. Date kept exactly as supplied pending confirmation.
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hmi-practical-2026-11-09@pk-architecture-calendar
+SUMMARY:Heritage Protection – Identification — Practical
+DTSTART;TZID=Europe/Warsaw:20261109T123000
+DTEND;TZID=Europe/Warsaw:20261109T143000
+DESCRIPTION:Practical class\nOutdoor thermal imaging measurements\nTime: 12:30–14:30
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hmi-practical-2026-11-16@pk-architecture-calendar
+SUMMARY:Heritage Protection – Identification — Practical
+DTSTART;TZID=Europe/Warsaw:20261116T123000
+DTEND;TZID=Europe/Warsaw:20261116T143000
+DESCRIPTION:Practical class\nOutdoor thermal imaging measurements\nTime: 12:30–14:30
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hmi-practical-2026-11-23@pk-architecture-calendar
+SUMMARY:Heritage Protection – Identification — Practical
+DTSTART;TZID=Europe/Warsaw:20261123T123000
+DTEND;TZID=Europe/Warsaw:20261123T143000
+DESCRIPTION:Practical class\nOutdoor humidity measurements with a hygrometer\nTime: 12:30–14:30
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hmi-practical-2026-11-30@pk-architecture-calendar
+SUMMARY:Heritage Protection – Identification — Practical
+DTSTART;TZID=Europe/Warsaw:20261130T123000
+DTEND;TZID=Europe/Warsaw:20261130T143000
+DESCRIPTION:Practical class\nOutdoor humidity measurements with a hygrometer\nTime: 12:30–14:30
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hmi-practical-2026-12-07@pk-architecture-calendar
+SUMMARY:Heritage Protection – Identification — Practical
+DTSTART;TZID=Europe/Warsaw:20261207T123000
+DTEND;TZID=Europe/Warsaw:20261207T143000
+LOCATION:Kanonicza 1\, 31-002 Kraków\, Poland
+DESCRIPTION:Practical class\nConsultations and feedback\nTime: 12:30–14:30
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hmi-practical-2026-12-14@pk-architecture-calendar
+SUMMARY:Heritage Protection – Identification — Practical
+DTSTART;TZID=Europe/Warsaw:20261214T123000
+DTEND;TZID=Europe/Warsaw:20261214T143000
+LOCATION:Kanonicza 1\, 31-002 Kraków\, Poland
+DESCRIPTION:Practical class\nConsultations and feedback\nTime: 12:30–14:30
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hmi-practical-2026-12-21@pk-architecture-calendar
+SUMMARY:Heritage Protection – Identification — Practical
+DTSTART;TZID=Europe/Warsaw:20261221T123000
+DTEND;TZID=Europe/Warsaw:20261221T143000
+LOCATION:Kanonicza 1\, 31-002 Kraków\, Poland
+DESCRIPTION:Practical class\nProject review\nTime: 12:30–14:30
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hmi-practical-2027-01-11@pk-architecture-calendar
+SUMMARY:Heritage Protection – Identification — Practical
+DTSTART;TZID=Europe/Warsaw:20270111T123000
+DTEND;TZID=Europe/Warsaw:20270111T143000
+LOCATION:Kanonicza 1\, 31-002 Kraków\, Poland
+DESCRIPTION:Practical class\nConsultations and feedback\nTime: 12:30–14:30
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hmi-practical-2027-01-18@pk-architecture-calendar
+SUMMARY:Heritage Protection – Identification — Practical
+DTSTART;TZID=Europe/Warsaw:20270118T123000
+DTEND;TZID=Europe/Warsaw:20270118T143000
+LOCATION:Kanonicza 1\, 31-002 Kraków\, Poland
+DESCRIPTION:Practical class\nConsultations and feedback\nTime: 12:30–14:30
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hmi-practical-2027-01-25@pk-architecture-calendar
+SUMMARY:Heritage Protection – Identification — Practical
+DTSTART;TZID=Europe/Warsaw:20270125T123000
+DTEND;TZID=Europe/Warsaw:20270125T143000
+LOCATION:Kanonicza 1\, 31-002 Kraków\, Poland
+DESCRIPTION:Practical class\nConsultations and feedback\nTime: 12:30–14:30
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hmi-practical-2027-02-01@pk-architecture-calendar
+SUMMARY:Heritage Protection – Identification — Practical
+DTSTART;TZID=Europe/Warsaw:20270201T123000
+DTEND;TZID=Europe/Warsaw:20270201T143000
+LOCATION:Kanonicza 1\, 31-002 Kraków\, Poland
+DESCRIPTION:Final deadline\nCourse: Protection of Architectural and Urban Heritage – Identification\, Documentation and Research Methodology\nTime: 12:30–14:30
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hmi-lecture-2026-10-12@pk-architecture-calendar
+SUMMARY:Heritage Protection – Identification — Lecture
+DTSTART;TZID=Europe/Warsaw:20261012T103000
+DTEND;TZID=Europe/Warsaw:20261012T120000
+LOCATION:Kanonicza 1\, 31-002 Kraków\, Poland
+DESCRIPTION:Lecture\nTopic: Research documentation\nLecturer: dr inż. arch. Dominika Długosz\nTime: 10:30–12:00
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hmi-lecture-2026-10-28@pk-architecture-calendar
+SUMMARY:Heritage Protection – Identification — Lecture
+DTSTART;TZID=Europe/Warsaw:20261028T103000
+DTEND;TZID=Europe/Warsaw:20261028T120000
+LOCATION:Kanonicza 1\, 31-002 Kraków\, Poland
+DESCRIPTION:Lecture\nTopic: Application of thermal imaging to architectural research\, Part I\nLecturer: dr inż. arch. Krzysztof Petrus\nTime: 10:30–12:00\nSource conflict: spreadsheet labels this row Monday\, but 28 Oct 2026 is Wednesday. Date kept exactly as supplied pending confirmation.
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hmi-lecture-2026-11-16@pk-architecture-calendar
+SUMMARY:Heritage Protection – Identification — Lecture
+DTSTART;TZID=Europe/Warsaw:20261116T103000
+DTEND;TZID=Europe/Warsaw:20261116T120000
+LOCATION:Kanonicza 1\, 31-002 Kraków\, Poland
+DESCRIPTION:Lecture\nTopic: Application of thermal imaging to architectural research\, Part II\nLecturer: dr inż. arch. Krzysztof Petrus\nTime: 10:30–12:00
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hmi-lecture-2026-11-30@pk-architecture-calendar
+SUMMARY:Heritage Protection – Identification — Lecture
+DTSTART;TZID=Europe/Warsaw:20261130T103000
+DTEND;TZID=Europe/Warsaw:20261130T120000
+LOCATION:Kanonicza 1\, 31-002 Kraków\, Poland
+DESCRIPTION:Lecture\nTopic: Moisture in historic buildings\nLecturer: dr inż. arch. Zbigniew Wikłacz\, prof. PK\nTime: 10:30–12:00
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hmi-lecture-2026-12-14@pk-architecture-calendar
+SUMMARY:Heritage Protection – Identification — Lecture
+DTSTART;TZID=Europe/Warsaw:20261214T103000
+DTEND;TZID=Europe/Warsaw:20261214T120000
+LOCATION:Kanonicza 1\, 31-002 Kraków\, Poland
+DESCRIPTION:Lecture\nTopic: Photogrammetry\, aerial and satellite photography in architectural research\nLecturer: dr inż. arch. Dominik Przygodzki\nTime: 10:30–12:00
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hmi-lecture-2027-01-11@pk-architecture-calendar
+SUMMARY:Heritage Protection – Identification — Lecture
+DTSTART;TZID=Europe/Warsaw:20270111T103000
+DTEND;TZID=Europe/Warsaw:20270111T120000
+LOCATION:Kanonicza 1\, 31-002 Kraków\, Poland
+DESCRIPTION:Lecture\nTopic: Studies of the masonry structure and its state of preservation\nLecturer: dr hab. inż. arch. Jolanta Sroczyńska\, prof. PK\nTime: 10:30–12:00
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hmi-lecture-2027-01-18@pk-architecture-calendar
+SUMMARY:Heritage Protection – Identification — Lecture
+DTSTART;TZID=Europe/Warsaw:20270118T103000
+DTEND;TZID=Europe/Warsaw:20270118T120000
+LOCATION:Kanonicza 1\, 31-002 Kraków\, Poland
+DESCRIPTION:Lecture\nTopic: Studies of plaster and paint layers in historic buildings\nLecturer: dr szt. Katarzyna Kołodziejczyk\nTime: 10:30–12:00
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hmi-lecture-2027-01-25@pk-architecture-calendar
+SUMMARY:Heritage Protection – Identification — Lecture
+DTSTART;TZID=Europe/Warsaw:20270125T103000
+DTEND;TZID=Europe/Warsaw:20270125T120000
+LOCATION:Kanonicza 1\, 31-002 Kraków\, Poland
+DESCRIPTION:Lecture\nTopic: Laser scanning\nLecturer: dr inż. arch. Małgorzata Hryniewicz\nTime: 10:30–12:00
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
