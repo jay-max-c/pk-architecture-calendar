@@ -20,6 +20,8 @@ ACTION:DISPLAY
 DESCRIPTION:Class starts in 10 minutes
 END:VALARM
 LOCATION:Podchorążych 1\, 30-084 Kraków\, Poland
+URL:https://maps.apple/p/~rBn2HZ5Zx_5CZ
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Podchorążych 1\, 30-084 Kraków\, Poland;X-TITLE=Faculty of Architecture — P5:https://maps.apple/p/~rBn2HZ5Zx_5CZ
 END:VEVENT
 BEGIN:VEVENT
 UID:mon-building-structures@pk-architecture-calendar
@@ -31,12 +33,13 @@ EXDATE;TZID=Europe/Warsaw:20261102T074500
 EXDATE;TZID=Europe/Warsaw:20261228T074500
 EXDATE;TZID=Europe/Warsaw:20270104T074500
 LOCATION:ONLINE
-DESCRIPTION:Lecture\nProfessor: dr inż. arch. S. Jurczakiewicz, prof. PK\nTeams
+DESCRIPTION:Lecture\nProfessor: dr inż. arch. S. Jurczakiewicz, prof. PK\nTeams: https://teams.microsoft.com
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:Class starts in 10 minutes
 END:VALARM
+URL:https://teams.microsoft.com
 END:VEVENT
 BEGIN:VEVENT
 UID:mon-landscape-architecture@pk-architecture-calendar
@@ -47,12 +50,13 @@ RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20270202T225959Z
 EXDATE;TZID=Europe/Warsaw:20261228T170000
 EXDATE;TZID=Europe/Warsaw:20270104T170000
 LOCATION:ONLINE
-DESCRIPTION:Lecture\nTeams
+DESCRIPTION:Lecture\nTeams: https://teams.microsoft.com
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:Class starts in 10 minutes
 END:VALARM
+URL:https://teams.microsoft.com
 END:VEVENT
 BEGIN:VEVENT
 UID:theory-design-2026-10-14@pk-architecture-calendar
@@ -60,12 +64,13 @@ SUMMARY:Theory of Architectural and Urban Design with Elements of Ergonomics
 DTSTART;TZID=Europe/Warsaw:20261014T170000
 DTEND;TZID=Europe/Warsaw:20261014T183000
 LOCATION:ONLINE
-DESCRIPTION:Lecture 1\nTopic: SWIMMING POOLS AND SPORT FACILITIES\nLecturer: dr inż. arch. Damian Poklewski-Koziełł\nTeams
+DESCRIPTION:Lecture 1\nTopic: SWIMMING POOLS AND SPORT FACILITIES\nLecturer: dr inż. arch. Damian Poklewski-Koziełł\nTeams: https://teams.microsoft.com
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:Class starts in 10 minutes
 END:VALARM
+URL:https://teams.microsoft.com
 END:VEVENT
 BEGIN:VEVENT
 UID:theory-design-2026-10-28@pk-architecture-calendar
@@ -73,12 +78,13 @@ SUMMARY:Theory of Architectural and Urban Design with Elements of Ergonomics
 DTSTART;TZID=Europe/Warsaw:20261028T170000
 DTEND;TZID=Europe/Warsaw:20261028T183000
 LOCATION:ONLINE
-DESCRIPTION:Lecture 2\nTopic: Architecture of the Ritual: Modernism\, Socialist Ritual Houses\, and Universal Ritual Spaces\nLecturer: Prof. M. Arch. Irena Dragiycheva (UACEG)\nTeams
+DESCRIPTION:Lecture 2\nTopic: Architecture of the Ritual: Modernism\, Socialist Ritual Houses\, and Universal Ritual Spaces\nLecturer: Prof. M. Arch. Irena Dragiycheva (UACEG)\nTeams: https://teams.microsoft.com
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:Class starts in 10 minutes
 END:VALARM
+URL:https://teams.microsoft.com
 END:VEVENT
 BEGIN:VEVENT
 UID:theory-design-2026-11-11@pk-architecture-calendar
@@ -86,12 +92,13 @@ SUMMARY:Theory of Architectural and Urban Design with Elements of Ergonomics
 DTSTART;TZID=Europe/Warsaw:20261111T170000
 DTEND;TZID=Europe/Warsaw:20261111T183000
 LOCATION:ONLINE
-DESCRIPTION:Lecture 3\nTopic: SCHOOLS\nLecturer: M. Arch. Marek Leja (MPOIA)\nTeams
+DESCRIPTION:Lecture 3\nTopic: SCHOOLS\nLecturer: M. Arch. Marek Leja (MPOIA)\nTeams: https://teams.microsoft.com
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:Class starts in 10 minutes
 END:VALARM
+URL:https://teams.microsoft.com
 END:VEVENT
 BEGIN:VEVENT
 UID:theory-design-2026-11-25@pk-architecture-calendar
@@ -99,12 +106,13 @@ SUMMARY:Theory of Architectural and Urban Design with Elements of Ergonomics
 DTSTART;TZID=Europe/Warsaw:20261125T170000
 DTEND;TZID=Europe/Warsaw:20261125T183000
 LOCATION:ONLINE
-DESCRIPTION:Lecture 4\nTopic: MUSEUMS OBJECTS & COMPLEXES\nLecturer: Prof. dr hab. inż. arch. Mateusz Gyurkovich\nTeams
+DESCRIPTION:Lecture 4\nTopic: MUSEUMS OBJECTS & COMPLEXES\nLecturer: Prof. dr hab. inż. arch. Mateusz Gyurkovich\nTeams: https://teams.microsoft.com
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:Class starts in 10 minutes
 END:VALARM
+URL:https://teams.microsoft.com
 END:VEVENT
 BEGIN:VEVENT
 UID:theory-design-2026-12-09@pk-architecture-calendar
@@ -112,12 +120,13 @@ SUMMARY:Theory of Architectural and Urban Design with Elements of Ergonomics
 DTSTART;TZID=Europe/Warsaw:20261209T170000
 DTEND;TZID=Europe/Warsaw:20261209T183000
 LOCATION:ONLINE
-DESCRIPTION:Lecture 5\nTopic: Conceptual\, formal and technical issues in the process of an implementation on the art gallery building in a historical context + BONUS\nLecturer: Dr inż. arch. Wojciech Świątek\nTeams
+DESCRIPTION:Lecture 5\nTopic: Conceptual\, formal and technical issues in the process of an implementation on the art gallery building in a historical context + BONUS\nLecturer: Dr inż. arch. Wojciech Świątek\nTeams: https://teams.microsoft.com
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:Class starts in 10 minutes
 END:VALARM
+URL:https://teams.microsoft.com
 END:VEVENT
 BEGIN:VEVENT
 UID:theory-design-2026-12-23@pk-architecture-calendar
@@ -125,12 +134,13 @@ SUMMARY:Theory of Architectural and Urban Design with Elements of Ergonomics
 DTSTART;TZID=Europe/Warsaw:20261223T170000
 DTEND;TZID=Europe/Warsaw:20261223T183000
 LOCATION:ONLINE
-DESCRIPTION:Lecture 6\nTopic: LIBRARIES\nLecturer: dr inż. arch. Bartłomiej Homiński\nTeams
+DESCRIPTION:Lecture 6\nTopic: LIBRARIES\nLecturer: dr inż. arch. Bartłomiej Homiński\nTeams: https://teams.microsoft.com
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:Class starts in 10 minutes
 END:VALARM
+URL:https://teams.microsoft.com
 END:VEVENT
 BEGIN:VEVENT
 UID:theory-design-2027-01-06@pk-architecture-calendar
@@ -138,12 +148,13 @@ SUMMARY:Theory of Architectural and Urban Design with Elements of Ergonomics
 DTSTART;TZID=Europe/Warsaw:20270106T170000
 DTEND;TZID=Europe/Warsaw:20270106T183000
 LOCATION:ONLINE
-DESCRIPTION:Lecture 7\nTopic: SHOPING MALLS\nLecturer: Dr inż. arch. Natalia Gorgol\nTeams
+DESCRIPTION:Lecture 7\nTopic: SHOPING MALLS\nLecturer: Dr inż. arch. Natalia Gorgol\nTeams: https://teams.microsoft.com
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:Class starts in 10 minutes
 END:VALARM
+URL:https://teams.microsoft.com
 END:VEVENT
 BEGIN:VEVENT
 UID:theory-design-2027-01-20@pk-architecture-calendar
@@ -151,12 +162,13 @@ SUMMARY:Theory of Architectural and Urban Design with Elements of Ergonomics
 DTSTART;TZID=Europe/Warsaw:20270120T170000
 DTEND;TZID=Europe/Warsaw:20270120T183000
 LOCATION:ONLINE
-DESCRIPTION:Lecture 8\nTopic: EXAM: TEST – 45 MINUTES\nLecturer: Prof. dr hab. inż. arch. Mateusz Gyurkovich\nTeams
+DESCRIPTION:Lecture 8\nTopic: EXAM: TEST – 45 MINUTES\nLecturer: Prof. dr hab. inż. arch. Mateusz Gyurkovich\nTeams: https://teams.microsoft.com
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:Class starts in 10 minutes
 END:VALARM
+URL:https://teams.microsoft.com
 END:VEVENT
 BEGIN:VEVENT
 UID:spatial-planning-1-2026-10-14@pk-architecture-calendar
@@ -164,12 +176,13 @@ SUMMARY:Spatial and Regional Planning and Urban Engineering
 DTSTART;TZID=Europe/Warsaw:20261014T193000
 DTEND;TZID=Europe/Warsaw:20261014T210000
 LOCATION:ONLINE
-DESCRIPTION:Lecture 1\nTopic: Introduction to the course and the semester project\nLecturer: D. Ogrodnik\, PhD\nTeams
+DESCRIPTION:Lecture 1\nTopic: Introduction to the course and the semester project\nLecturer: D. Ogrodnik\, PhD\nTeams: https://teams.microsoft.com
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:Class starts in 10 minutes
 END:VALARM
+URL:https://teams.microsoft.com
 END:VEVENT
 BEGIN:VEVENT
 UID:spatial-planning-2-2026-10-21@pk-architecture-calendar
@@ -177,12 +190,13 @@ SUMMARY:Spatial and Regional Planning and Urban Engineering
 DTSTART;TZID=Europe/Warsaw:20261021T193000
 DTEND;TZID=Europe/Warsaw:20261021T210000
 LOCATION:ONLINE
-DESCRIPTION:Lecture 2\nTopic: Planning studies\; problem areas and spatial\, functional and social conflicts\nLecturer: R. Blazy\, PhD\, DSc\, CUT Prof.\nTeams
+DESCRIPTION:Lecture 2\nTopic: Planning studies\; problem areas and spatial\, functional and social conflicts\nLecturer: R. Blazy\, PhD\, DSc\, CUT Prof.\nTeams: https://teams.microsoft.com
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:Class starts in 10 minutes
 END:VALARM
+URL:https://teams.microsoft.com
 END:VEVENT
 BEGIN:VEVENT
 UID:spatial-planning-3-2026-10-28@pk-architecture-calendar
@@ -190,12 +204,13 @@ SUMMARY:Spatial and Regional Planning and Urban Engineering
 DTSTART;TZID=Europe/Warsaw:20261028T193000
 DTEND;TZID=Europe/Warsaw:20261028T210000
 LOCATION:ONLINE
-DESCRIPTION:Lecture 3\nTopic: Urban programme and services\nLecturer: M. Wdowiarz-Bilska\, PhD\, DSc\, CUT Prof.\nTeams
+DESCRIPTION:Lecture 3\nTopic: Urban programme and services\nLecturer: M. Wdowiarz-Bilska\, PhD\, DSc\, CUT Prof.\nTeams: https://teams.microsoft.com
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:Class starts in 10 minutes
 END:VALARM
+URL:https://teams.microsoft.com
 END:VEVENT
 BEGIN:VEVENT
 UID:spatial-planning-4-2026-11-04@pk-architecture-calendar
@@ -203,12 +218,13 @@ SUMMARY:Spatial and Regional Planning and Urban Engineering
 DTSTART;TZID=Europe/Warsaw:20261104T193000
 DTEND;TZID=Europe/Warsaw:20261104T210000
 LOCATION:ONLINE
-DESCRIPTION:Lecture 4\nTopic: General Plan\nLecturer: M. Łasocha\, PhD\nTeams
+DESCRIPTION:Lecture 4\nTopic: General Plan\nLecturer: M. Łasocha\, PhD\nTeams: https://teams.microsoft.com
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:Class starts in 10 minutes
 END:VALARM
+URL:https://teams.microsoft.com
 END:VEVENT
 BEGIN:VEVENT
 UID:spatial-planning-5-2026-11-18@pk-architecture-calendar
@@ -216,12 +232,13 @@ SUMMARY:Spatial and Regional Planning and Urban Engineering
 DTSTART;TZID=Europe/Warsaw:20261118T193000
 DTEND;TZID=Europe/Warsaw:20261118T210000
 LOCATION:ONLINE
-DESCRIPTION:Lecture 5\nTopic: Environmental conditions and green spaces - theory and practice\nLecturer: J. Błachut\, PhD\nTeams
+DESCRIPTION:Lecture 5\nTopic: Environmental conditions and green spaces - theory and practice\nLecturer: J. Błachut\, PhD\nTeams: https://teams.microsoft.com
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:Class starts in 10 minutes
 END:VALARM
+URL:https://teams.microsoft.com
 END:VEVENT
 BEGIN:VEVENT
 UID:spatial-planning-6-2026-11-25@pk-architecture-calendar
@@ -229,12 +246,13 @@ SUMMARY:Spatial and Regional Planning and Urban Engineering
 DTSTART;TZID=Europe/Warsaw:20261125T193000
 DTEND;TZID=Europe/Warsaw:20261125T210000
 LOCATION:ONLINE
-DESCRIPTION:Lecture 6\nTopic: Shaping Spatial Order through Composition and Systems of Spatial Relationships\nLecturer: R. Łabuz\, PhD\nTeams
+DESCRIPTION:Lecture 6\nTopic: Shaping Spatial Order through Composition and Systems of Spatial Relationships\nLecturer: R. Łabuz\, PhD\nTeams: https://teams.microsoft.com
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:Class starts in 10 minutes
 END:VALARM
+URL:https://teams.microsoft.com
 END:VEVENT
 BEGIN:VEVENT
 UID:spatial-planning-7-2026-12-02@pk-architecture-calendar
@@ -242,12 +260,13 @@ SUMMARY:Spatial and Regional Planning and Urban Engineering
 DTSTART;TZID=Europe/Warsaw:20261202T193000
 DTEND;TZID=Europe/Warsaw:20261202T210000
 LOCATION:ONLINE
-DESCRIPTION:Lecture 7\nTopic: Theories of transport network planning\nLecturer: P. Langer\, PhD\nTeams
+DESCRIPTION:Lecture 7\nTopic: Theories of transport network planning\nLecturer: P. Langer\, PhD\nTeams: https://teams.microsoft.com
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:Class starts in 10 minutes
 END:VALARM
+URL:https://teams.microsoft.com
 END:VEVENT
 BEGIN:VEVENT
 UID:spatial-planning-8-2027-01-27@pk-architecture-calendar
@@ -255,12 +274,13 @@ SUMMARY:Spatial and Regional Planning and Urban Engineering
 DTSTART;TZID=Europe/Warsaw:20270127T193000
 DTEND;TZID=Europe/Warsaw:20270127T210000
 LOCATION:ONLINE
-DESCRIPTION:Lecture 8\nTopic: FINAL ASSESSMENT TEST\nTeams
+DESCRIPTION:Lecture 8\nTopic: FINAL ASSESSMENT TEST\nTeams: https://teams.microsoft.com
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:Class starts in 10 minutes
 END:VALARM
+URL:https://teams.microsoft.com
 END:VEVENT
 BEGIN:VEVENT
 UID:hmi-practical-2026-10-05@pk-architecture-calendar
@@ -703,6 +723,8 @@ TRIGGER:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:Class starts in 10 minutes
 END:VALARM
+URL:https://maps.apple/p/~rBn2HZ5Zx_5CZ
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Podchorążych 1\, 30-084 Kraków\, Poland;X-TITLE=Faculty of Architecture — P5:https://maps.apple/p/~rBn2HZ5Zx_5CZ
 END:VEVENT
 BEGIN:VEVENT
 UID:m1a-2026-10-16@pk-architecture-calendar
@@ -717,6 +739,8 @@ TRIGGER:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:Class starts in 10 minutes
 END:VALARM
+URL:https://maps.apple/p/~rBn2HZ5Zx_5CZ
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Podchorążych 1\, 30-084 Kraków\, Poland;X-TITLE=Faculty of Architecture — P5:https://maps.apple/p/~rBn2HZ5Zx_5CZ
 END:VEVENT
 BEGIN:VEVENT
 UID:m1a-2026-10-23@pk-architecture-calendar
@@ -731,6 +755,8 @@ TRIGGER:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:Class starts in 10 minutes
 END:VALARM
+URL:https://maps.apple/p/~rBn2HZ5Zx_5CZ
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Podchorążych 1\, 30-084 Kraków\, Poland;X-TITLE=Faculty of Architecture — P5:https://maps.apple/p/~rBn2HZ5Zx_5CZ
 END:VEVENT
 BEGIN:VEVENT
 UID:m1a-2026-10-30@pk-architecture-calendar
@@ -745,6 +771,8 @@ TRIGGER:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:Class starts in 10 minutes
 END:VALARM
+URL:https://maps.apple/p/~rBn2HZ5Zx_5CZ
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Podchorążych 1\, 30-084 Kraków\, Poland;X-TITLE=Faculty of Architecture — P5:https://maps.apple/p/~rBn2HZ5Zx_5CZ
 END:VEVENT
 BEGIN:VEVENT
 UID:m1a-2026-11-06@pk-architecture-calendar
@@ -759,6 +787,8 @@ TRIGGER:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:Class starts in 10 minutes
 END:VALARM
+URL:https://maps.apple/p/~rBn2HZ5Zx_5CZ
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Podchorążych 1\, 30-084 Kraków\, Poland;X-TITLE=Faculty of Architecture — P5:https://maps.apple/p/~rBn2HZ5Zx_5CZ
 END:VEVENT
 BEGIN:VEVENT
 UID:m1a-2026-11-13@pk-architecture-calendar
@@ -773,6 +803,8 @@ TRIGGER:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:Class starts in 10 minutes
 END:VALARM
+URL:https://maps.apple/p/~rBn2HZ5Zx_5CZ
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Podchorążych 1\, 30-084 Kraków\, Poland;X-TITLE=Faculty of Architecture — P5:https://maps.apple/p/~rBn2HZ5Zx_5CZ
 END:VEVENT
 BEGIN:VEVENT
 UID:m1a-2026-11-20@pk-architecture-calendar
@@ -787,6 +819,8 @@ TRIGGER:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:Class starts in 10 minutes
 END:VALARM
+URL:https://maps.apple/p/~rBn2HZ5Zx_5CZ
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Podchorążych 1\, 30-084 Kraków\, Poland;X-TITLE=Faculty of Architecture — P5:https://maps.apple/p/~rBn2HZ5Zx_5CZ
 END:VEVENT
 BEGIN:VEVENT
 UID:m1a-2026-11-27@pk-architecture-calendar
@@ -801,6 +835,8 @@ TRIGGER:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:Class starts in 10 minutes
 END:VALARM
+URL:https://maps.apple/p/~rBn2HZ5Zx_5CZ
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Podchorążych 1\, 30-084 Kraków\, Poland;X-TITLE=Faculty of Architecture — P5:https://maps.apple/p/~rBn2HZ5Zx_5CZ
 END:VEVENT
 BEGIN:VEVENT
 UID:m1a-2026-12-04@pk-architecture-calendar
@@ -815,6 +851,8 @@ TRIGGER:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:Class starts in 10 minutes
 END:VALARM
+URL:https://maps.apple/p/~rBn2HZ5Zx_5CZ
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Podchorążych 1\, 30-084 Kraków\, Poland;X-TITLE=Faculty of Architecture — P5:https://maps.apple/p/~rBn2HZ5Zx_5CZ
 END:VEVENT
 BEGIN:VEVENT
 UID:m1a-2026-12-11@pk-architecture-calendar
@@ -829,6 +867,8 @@ TRIGGER:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:Class starts in 10 minutes
 END:VALARM
+URL:https://maps.apple/p/~rBn2HZ5Zx_5CZ
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Podchorążych 1\, 30-084 Kraków\, Poland;X-TITLE=Faculty of Architecture — P5:https://maps.apple/p/~rBn2HZ5Zx_5CZ
 END:VEVENT
 BEGIN:VEVENT
 UID:m1a-2026-12-18@pk-architecture-calendar
@@ -843,6 +883,8 @@ TRIGGER:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:Class starts in 10 minutes
 END:VALARM
+URL:https://maps.apple/p/~rBn2HZ5Zx_5CZ
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Podchorążych 1\, 30-084 Kraków\, Poland;X-TITLE=Faculty of Architecture — P5:https://maps.apple/p/~rBn2HZ5Zx_5CZ
 END:VEVENT
 BEGIN:VEVENT
 UID:m1a-2027-01-08@pk-architecture-calendar
@@ -857,6 +899,8 @@ TRIGGER:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:Class starts in 10 minutes
 END:VALARM
+URL:https://maps.apple/p/~rBn2HZ5Zx_5CZ
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Podchorążych 1\, 30-084 Kraków\, Poland;X-TITLE=Faculty of Architecture — P5:https://maps.apple/p/~rBn2HZ5Zx_5CZ
 END:VEVENT
 BEGIN:VEVENT
 UID:m1a-2027-01-15@pk-architecture-calendar
@@ -871,6 +915,8 @@ TRIGGER:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:Class starts in 10 minutes
 END:VALARM
+URL:https://maps.apple/p/~rBn2HZ5Zx_5CZ
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Podchorążych 1\, 30-084 Kraków\, Poland;X-TITLE=Faculty of Architecture — P5:https://maps.apple/p/~rBn2HZ5Zx_5CZ
 END:VEVENT
 BEGIN:VEVENT
 UID:m1a-2027-01-22@pk-architecture-calendar
@@ -885,6 +931,8 @@ TRIGGER:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:Class starts in 10 minutes
 END:VALARM
+URL:https://maps.apple/p/~rBn2HZ5Zx_5CZ
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Podchorążych 1\, 30-084 Kraków\, Poland;X-TITLE=Faculty of Architecture — P5:https://maps.apple/p/~rBn2HZ5Zx_5CZ
 END:VEVENT
 BEGIN:VEVENT
 UID:m1a-2027-01-29@pk-architecture-calendar
@@ -899,6 +947,8 @@ TRIGGER:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:Class starts in 10 minutes
 END:VALARM
+URL:https://maps.apple/p/~rBn2HZ5Zx_5CZ
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Podchorążych 1\, 30-084 Kraków\, Poland;X-TITLE=Faculty of Architecture — P5:https://maps.apple/p/~rBn2HZ5Zx_5CZ
 END:VEVENT
 BEGIN:VEVENT
 UID:m2a-2026-10-06@pk-architecture-calendar
