@@ -434,8 +434,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hmi-practical-2026-10-26@pk-architecture-calendar
 SUMMARY:Heritage Protection – Identification — Practical
-DTSTART;TZID=Europe/Warsaw:20261028T123000
-DTEND;TZID=Europe/Warsaw:20261028T143000
+DTSTART;TZID=Europe/Warsaw:20261026T123000
+DTEND;TZID=Europe/Warsaw:20261026T143000
 LOCATION:Kanonicza 1\, 31-002 Kraków\, Poland
 DESCRIPTION:Practical class
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
@@ -612,8 +612,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hmi-lecture-2026-10-26@pk-architecture-calendar
 SUMMARY:Heritage Protection – Identification — Lecture
-DTSTART;TZID=Europe/Warsaw:20261028T103000
-DTEND;TZID=Europe/Warsaw:20261028T120000
+DTSTART;TZID=Europe/Warsaw:20261026T103000
+DTEND;TZID=Europe/Warsaw:20261026T120000
 LOCATION:Kanonicza 1\, 31-002 Kraków\, Poland
 DESCRIPTION:Lecture\nTopic: Application of thermal imaging to architectural research\, Part I\nLecturer: dr inż. arch. Krzysztof Petrus
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
