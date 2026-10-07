@@ -427,12 +427,12 @@ DESCRIPTION:Class starts in 10 minutes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:hmi-practical-2026-10-28@pk-architecture-calendar
+UID:hmi-practical-2026-10-26@pk-architecture-calendar
 SUMMARY:Heritage Protection – Identification — Practical
 DTSTART;TZID=Europe/Warsaw:20261028T123000
 DTEND;TZID=Europe/Warsaw:20261028T143000
 LOCATION:Kanonicza 1\, 31-002 Kraków\, Poland
-DESCRIPTION:Practical class\nTime: 12:30–14:30\nSource conflict: spreadsheet labels this row Monday\, but 28 Oct 2026 is Wednesday. Date kept exactly as supplied pending confirmation.
+DESCRIPTION:Practical class\nTime: 12:30–14:30
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -601,12 +601,12 @@ DESCRIPTION:Class starts in 10 minutes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:hmi-lecture-2026-10-28@pk-architecture-calendar
+UID:hmi-lecture-2026-10-26@pk-architecture-calendar
 SUMMARY:Heritage Protection – Identification — Lecture
 DTSTART;TZID=Europe/Warsaw:20261028T103000
 DTEND;TZID=Europe/Warsaw:20261028T120000
 LOCATION:Kanonicza 1\, 31-002 Kraków\, Poland
-DESCRIPTION:Lecture\nTopic: Application of thermal imaging to architectural research\, Part I\nLecturer: dr inż. arch. Krzysztof Petrus\nTime: 10:30–12:00\nSource conflict: spreadsheet labels this row Monday\, but 28 Oct 2026 is Wednesday. Date kept exactly as supplied pending confirmation.
+DESCRIPTION:Lecture\nTopic: Application of thermal imaging to architectural research\, Part I\nLecturer: dr inż. arch. Krzysztof Petrus\nTime: 10:30–12:00
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 BEGIN:VALARM
 TRIGGER:-PT10M
