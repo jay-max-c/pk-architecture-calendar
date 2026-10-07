@@ -6,85 +6,10 @@ METHOD:PUBLISH
 X-WR-CALNAME:PK Architecture - Y1 S1 2026/27
 X-WR-TIMEZONE:Europe/Warsaw
 BEGIN:VEVENT
-UID:tue-studio-2a@pk-architecture-calendar
-SUMMARY:Design Studio S3 — Module 2A
-DTSTART;TZID=Europe/Warsaw:20261006T170000
-DTEND;TZID=Europe/Warsaw:20261006T200000
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20270202T225959Z
-EXDATE;TZID=Europe/Warsaw:20261229T170000
-EXDATE;TZID=Europe/Warsaw:20270105T170000
-EXDATE;TZID=Europe/Warsaw:20270202T170000
-DESCRIPTION:Studio: S3\nModule 2A: Spatial and Regional Planning and Urban Engineering\nProfessors: dr hab. inż. arch. Rafał Blazy, prof. PK; dr hab. inż. arch. Matylda Wdowiarz-Bilska, prof. PK\nFloor: 3rd floor
-BEGIN:VALARM
-TRIGGER:-PT10M
-ACTION:DISPLAY
-DESCRIPTION:Class starts in 10 minutes
-END:VALARM
-LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-END:VEVENT
-BEGIN:VEVENT
-UID:wed-studio-2a@pk-architecture-calendar
-SUMMARY:Design Studio S3 — Module 2A
-DTSTART;TZID=Europe/Warsaw:20261007T080000
-DTEND;TZID=Europe/Warsaw:20261007T094500
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20270202T225959Z
-EXDATE;TZID=Europe/Warsaw:20261111T080000
-EXDATE;TZID=Europe/Warsaw:20261223T080000
-EXDATE;TZID=Europe/Warsaw:20261230T080000
-EXDATE;TZID=Europe/Warsaw:20270106T080000
-DESCRIPTION:Studio: S3\nModule 2A: Spatial and Regional Planning and Urban Engineering\nProfessors: dr hab. inż. arch. Rafał Blazy, prof. PK; dr hab. inż. arch. Matylda Wdowiarz-Bilska, prof. PK\nFloor: 3rd floor
-BEGIN:VALARM
-TRIGGER:-PT10M
-ACTION:DISPLAY
-DESCRIPTION:Class starts in 10 minutes
-END:VALARM
-LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-END:VEVENT
-BEGIN:VEVENT
-UID:wed-studio-2b@pk-architecture-calendar
-SUMMARY:Design Studio S3 — Module 2B
-DTSTART;TZID=Europe/Warsaw:20261007T094500
-DTEND;TZID=Europe/Warsaw:20261007T111500
-RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20270202T225959Z
-EXDATE;TZID=Europe/Warsaw:20261111T094500
-EXDATE;TZID=Europe/Warsaw:20261223T094500
-EXDATE;TZID=Europe/Warsaw:20261230T094500
-EXDATE;TZID=Europe/Warsaw:20270106T094500
-DESCRIPTION:Room: S3\nProfessor: prof. dr hab. inż. arch. Dominika Kuśnierz-Krupa
-BEGIN:VALARM
-TRIGGER:-PT10M
-ACTION:DISPLAY
-DESCRIPTION:Class starts in 10 minutes
-END:VALARM
-LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-END:VEVENT
-BEGIN:VEVENT
-UID:fri-studio-1a@pk-architecture-calendar
-SUMMARY:Design Studio P5 — Module 1A
-DTSTART;TZID=Europe/Warsaw:20261009T080000
-DTEND;TZID=Europe/Warsaw:20261009T131500
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20270202T225959Z
-EXDATE;TZID=Europe/Warsaw:20261225T080000
-EXDATE;TZID=Europe/Warsaw:20270101T080000
-LOCATION:Podchorążych 1\, 30-084 Kraków\, Poland
-DESCRIPTION:Room: P5, 2nd floor\nDesign Studio P5\nModule 1A: Public Utility Buildings Design
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-BEGIN:VALARM
-TRIGGER:-PT10M
-ACTION:DISPLAY
-DESCRIPTION:Class starts in 10 minutes
-END:VALARM
-URL:https://maps.apple/p/~rBn2HZ5Zx_5CZ
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Podchorążych 1\, 30-084 Kraków\, Poland;X-TITLE=Room P5\, Faculty of Architecture:https://maps.apple/p/~rBn2HZ5Zx_5CZ
-END:VEVENT
-BEGIN:VEVENT
 UID:fri-module-1b@pk-architecture-calendar
 SUMMARY:Design Studio P5 — Module 1B
 DTSTART;TZID=Europe/Warsaw:20261009T131500
-DTEND;TZID=Europe/Warsaw:20261009T143000
+DTEND;TZID=Europe/Warsaw:20261009T144500
 RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20270202T225959Z
 EXDATE;TZID=Europe/Warsaw:20261225T131500
 EXDATE;TZID=Europe/Warsaw:20270101T131500
@@ -95,60 +20,6 @@ ACTION:DISPLAY
 DESCRIPTION:Class starts in 10 minutes
 END:VALARM
 LOCATION:Podchorążych 1\, 30-084 Kraków\, Poland
-END:VEVENT
-BEGIN:VEVENT
-UID:wed-studio-2a-makeup-2027-01-28@pk-architecture-calendar
-SUMMARY:Design Studio S3 — Module 2A
-DTSTART;TZID=Europe/Warsaw:20270128T080000
-DTEND;TZID=Europe/Warsaw:20270128T094500
-DESCRIPTION:Studio: S3\nModule 2A: Spatial and Regional Planning and Urban Engineering\nProfessors: Rafał Blazy; Matylda Wdowiarz-Bilska
-BEGIN:VALARM
-TRIGGER:-PT10M
-ACTION:DISPLAY
-DESCRIPTION:Class starts in 10 minutes
-END:VALARM
-LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
-END:VEVENT
-BEGIN:VEVENT
-UID:wed-studio-2b-makeup-2027-01-28@pk-architecture-calendar
-SUMMARY:Design Studio S3 — Module 2B
-DTSTART;TZID=Europe/Warsaw:20270128T094500
-DTEND;TZID=Europe/Warsaw:20270128T111500
-DESCRIPTION:Room: S3\nModule 2B: Protection of Historic Urban Ensembles\nProfessor: Dominika Kuśnierz-Krupa
-BEGIN:VALARM
-TRIGGER:-PT10M
-ACTION:DISPLAY
-DESCRIPTION:Class starts in 10 minutes
-END:VALARM
-LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
-END:VEVENT
-BEGIN:VEVENT
-UID:wed-studio-2a-makeup-2027-02-02@pk-architecture-calendar
-SUMMARY:Design Studio S3 — Module 2A
-DTSTART;TZID=Europe/Warsaw:20270202T080000
-DTEND;TZID=Europe/Warsaw:20270202T094500
-DESCRIPTION:Studio: S3\nModule 2A: Spatial and Regional Planning and Urban Engineering\nProfessors: Rafał Blazy; Matylda Wdowiarz-Bilska
-BEGIN:VALARM
-TRIGGER:-PT10M
-ACTION:DISPLAY
-DESCRIPTION:Class starts in 10 minutes
-END:VALARM
-LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
-END:VEVENT
-BEGIN:VEVENT
-UID:wed-studio-2b-makeup-2027-02-02@pk-architecture-calendar
-SUMMARY:Design Studio S3 — Module 2B
-DTSTART;TZID=Europe/Warsaw:20270202T094500
-DTEND;TZID=Europe/Warsaw:20270202T111500
-DESCRIPTION:Room: S3\nModule 2B: Protection of Historic Urban Ensembles\nProfessor: Dominika Kuśnierz-Krupa
-BEGIN:VALARM
-TRIGGER:-PT10M
-ACTION:DISPLAY
-DESCRIPTION:Class starts in 10 minutes
-END:VALARM
-LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
-X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 END:VEVENT
 BEGIN:VEVENT
 UID:mon-building-structures@pk-architecture-calendar
@@ -700,6 +571,734 @@ DTSTART;TZID=Europe/Warsaw:20270125T103000
 DTEND;TZID=Europe/Warsaw:20270125T120000
 LOCATION:Kanonicza 1\, 31-002 Kraków\, Poland
 DESCRIPTION:Lecture\nTopic: Laser scanning\nLecturer: dr inż. arch. Małgorzata Hryniewicz
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m2b-2026-10-07@pk-architecture-calendar
+SUMMARY:Design Studio S3 — Module 2B
+DTSTART;TZID=Europe/Warsaw:20261007T094500
+DTEND;TZID=Europe/Warsaw:20261007T111500
+LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
+DESCRIPTION:Room: S3\nPresentation-seminar 1: Introduction to the course\, history of the city\, urban factors & urban forms.\nTutors: prof. dr hab. inż. arch. Maciej Motak\; mgr inż. arch. Dominika Federyga
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m2b-2026-10-14@pk-architecture-calendar
+SUMMARY:Design Studio S3 — Module 2B
+DTSTART;TZID=Europe/Warsaw:20261014T094500
+DTEND;TZID=Europe/Warsaw:20261014T111500
+LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
+DESCRIPTION:Room: S3\nPresentation-seminar 2: Protection of urban heritage in Poland. Forms and tools of protection.\nTutors: prof. dr hab. inż. arch. Maciej Motak\; mgr inż. arch. Dominika Federyga
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m2b-2026-10-21@pk-architecture-calendar
+SUMMARY:Design Studio S3 — Module 2B
+DTSTART;TZID=Europe/Warsaw:20261021T094500
+DTEND;TZID=Europe/Warsaw:20261021T111500
+LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
+DESCRIPTION:Room: S3\nPresentation-seminar 3: Biłgoraj. Town on the Trail of Borderland Cultures.\nTutors: prof. dr hab. inż. arch. Maciej Motak\; mgr inż. arch. Dominika Federyga
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m2b-2026-10-28@pk-architecture-calendar
+SUMMARY:Design Studio S3 — Module 2B
+DTSTART;TZID=Europe/Warsaw:20261028T094500
+DTEND;TZID=Europe/Warsaw:20261028T111500
+LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
+DESCRIPTION:Room: S3\nPresentation-seminar 4: Protection of urban heritage in the world. A short review of ideas\, forms\, projects.\nTutors: prof. dr hab. inż. arch. Maciej Motak\; mgr inż. arch. Dominika Federyga
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m2b-2026-11-04@pk-architecture-calendar
+SUMMARY:Design Studio S3 — Module 2B
+DTSTART;TZID=Europe/Warsaw:20261104T094500
+DTEND;TZID=Europe/Warsaw:20261104T111500
+LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
+DESCRIPTION:Room: S3\nCorrections and revisions of student works.\nTutors: prof. dr hab. inż. arch. Maciej Motak\; mgr inż. arch. Dominika Federyga
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m2b-2026-11-18@pk-architecture-calendar
+SUMMARY:Design Studio S3 — Module 2B
+DTSTART;TZID=Europe/Warsaw:20261118T094500
+DTEND;TZID=Europe/Warsaw:20261118T111500
+LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
+DESCRIPTION:Room: S3\nCorrections of student works.\nTutors: prof. dr hab. inż. arch. Maciej Motak\; mgr inż. arch. Dominika Federyga
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m2b-2026-11-25@pk-architecture-calendar
+SUMMARY:Design Studio S3 — Module 2B
+DTSTART;TZID=Europe/Warsaw:20261125T094500
+DTEND;TZID=Europe/Warsaw:20261125T111500
+LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
+DESCRIPTION:Room: S3\nPresentations of projects\; discussion\; submission/amendments.\nTutors: prof. dr hab. inż. arch. Maciej Motak\; mgr inż. arch. Dominika Federyga
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m2b-2026-12-02@pk-architecture-calendar
+SUMMARY:Design Studio S3 — Module 2B
+DTSTART;TZID=Europe/Warsaw:20261202T094500
+DTEND;TZID=Europe/Warsaw:20261202T103000
+LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
+DESCRIPTION:Room: S3\nFinal submission of tasks.\nTutors: prof. dr hab. inż. arch. Maciej Motak\; mgr inż. arch. Dominika Federyga
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m1a-2026-10-09@pk-architecture-calendar
+SUMMARY:Design Studio P5 — Module 1A
+DTSTART;TZID=Europe/Warsaw:20261009T080000
+DTEND;TZID=Europe/Warsaw:20261009T131500
+LOCATION:Podchorążych 1\, 30-084 Kraków\, Poland
+DESCRIPTION:Room: P5\, 2nd floor\nINTRODUCTION + TOPICS + SITE RECOGNITION IN GROUPS\nCourse leader: Prof. Mateusz Gyurkovich\nCoordinator: Dr Damian Poklewski-Koziełł
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m1a-2026-10-16@pk-architecture-calendar
+SUMMARY:Design Studio P5 — Module 1A
+DTSTART;TZID=Europe/Warsaw:20261016T080000
+DTEND;TZID=Europe/Warsaw:20261016T131500
+LOCATION:Podchorążych 1\, 30-084 Kraków\, Poland
+DESCRIPTION:Room: P5\, 2nd floor\nURBAN ANALYSIS + design guidelines\nCourse leader: Prof. Mateusz Gyurkovich\nCoordinator: Dr Damian Poklewski-Koziełł
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m1a-2026-10-23@pk-architecture-calendar
+SUMMARY:Design Studio P5 — Module 1A
+DTSTART;TZID=Europe/Warsaw:20261023T080000
+DTEND;TZID=Europe/Warsaw:20261023T131500
+LOCATION:Podchorążych 1\, 30-084 Kraków\, Poland
+DESCRIPTION:Room: P5\, 2nd floor\nURBAN ANALYSIS + design guidelines\nCourse leader: Prof. Mateusz Gyurkovich\nCoordinator: Dr Damian Poklewski-Koziełł
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m1a-2026-10-30@pk-architecture-calendar
+SUMMARY:Design Studio P5 — Module 1A
+DTSTART;TZID=Europe/Warsaw:20261030T080000
+DTEND;TZID=Europe/Warsaw:20261030T131500
+LOCATION:Podchorążych 1\, 30-084 Kraków\, Poland
+DESCRIPTION:Room: P5\, 2nd floor\nURBAN ANALYSIS / guidelines — PRESENTATION. REVIEW I\nCourse leader: Prof. Mateusz Gyurkovich\nCoordinator: Dr Damian Poklewski-Koziełł
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m1a-2026-11-06@pk-architecture-calendar
+SUMMARY:Design Studio P5 — Module 1A
+DTSTART;TZID=Europe/Warsaw:20261106T080000
+DTEND;TZID=Europe/Warsaw:20261106T131500
+LOCATION:Podchorążych 1\, 30-084 Kraków\, Poland
+DESCRIPTION:Room: P5\, 2nd floor\nURBAN RESTRUCTURING CONCEPT\nCourse leader: Prof. Mateusz Gyurkovich\nCoordinator: Dr Damian Poklewski-Koziełł
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m1a-2026-11-13@pk-architecture-calendar
+SUMMARY:Design Studio P5 — Module 1A
+DTSTART;TZID=Europe/Warsaw:20261113T080000
+DTEND;TZID=Europe/Warsaw:20261113T131500
+LOCATION:Podchorążych 1\, 30-084 Kraków\, Poland
+DESCRIPTION:Room: P5\, 2nd floor\nURBAN RESTRUCTURING CONCEPT\nCourse leader: Prof. Mateusz Gyurkovich\nCoordinator: Dr Damian Poklewski-Koziełł
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m1a-2026-11-20@pk-architecture-calendar
+SUMMARY:Design Studio P5 — Module 1A
+DTSTART;TZID=Europe/Warsaw:20261120T080000
+DTEND;TZID=Europe/Warsaw:20261120T131500
+LOCATION:Podchorążych 1\, 30-084 Kraków\, Poland
+DESCRIPTION:Room: P5\, 2nd floor\nURBAN RESTRUCTURING CONCEPT\nCourse leader: Prof. Mateusz Gyurkovich\nCoordinator: Dr Damian Poklewski-Koziełł
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m1a-2026-11-27@pk-architecture-calendar
+SUMMARY:Design Studio P5 — Module 1A
+DTSTART;TZID=Europe/Warsaw:20261127T080000
+DTEND;TZID=Europe/Warsaw:20261127T131500
+LOCATION:Podchorążych 1\, 30-084 Kraków\, Poland
+DESCRIPTION:Room: P5\, 2nd floor\nURBAN RESTRUCTURING CONCEPT\nCourse leader: Prof. Mateusz Gyurkovich\nCoordinator: Dr Damian Poklewski-Koziełł
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m1a-2026-12-04@pk-architecture-calendar
+SUMMARY:Design Studio P5 — Module 1A
+DTSTART;TZID=Europe/Warsaw:20261204T080000
+DTEND;TZID=Europe/Warsaw:20261204T131500
+LOCATION:Podchorążych 1\, 30-084 Kraków\, Poland
+DESCRIPTION:Room: P5\, 2nd floor\nURBAN RESTRUCTURING CONCEPT — PRESENTATION. REVIEW II\nCourse leader: Prof. Mateusz Gyurkovich\nCoordinator: Dr Damian Poklewski-Koziełł
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m1a-2026-12-11@pk-architecture-calendar
+SUMMARY:Design Studio P5 — Module 1A
+DTSTART;TZID=Europe/Warsaw:20261211T080000
+DTEND;TZID=Europe/Warsaw:20261211T131500
+LOCATION:Podchorążych 1\, 30-084 Kraków\, Poland
+DESCRIPTION:Room: P5\, 2nd floor\nARCHITECTURE DESIGN OF NEW PUBLIC USE BUILDING\nCourse leader: Prof. Mateusz Gyurkovich\nCoordinator: Dr Damian Poklewski-Koziełł
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m1a-2026-12-18@pk-architecture-calendar
+SUMMARY:Design Studio P5 — Module 1A
+DTSTART;TZID=Europe/Warsaw:20261218T080000
+DTEND;TZID=Europe/Warsaw:20261218T131500
+LOCATION:Podchorążych 1\, 30-084 Kraków\, Poland
+DESCRIPTION:Room: P5\, 2nd floor\nARCHITECTURE DESIGN OF NEW PUBLIC USE BUILDING\nCourse leader: Prof. Mateusz Gyurkovich\nCoordinator: Dr Damian Poklewski-Koziełł
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m1a-2027-01-08@pk-architecture-calendar
+SUMMARY:Design Studio P5 — Module 1A
+DTSTART;TZID=Europe/Warsaw:20270108T080000
+DTEND;TZID=Europe/Warsaw:20270108T131500
+LOCATION:Podchorążych 1\, 30-084 Kraków\, Poland
+DESCRIPTION:Room: P5\, 2nd floor\nARCHITECTURE DESIGN OF NEW PUBLIC USE BUILDING\nCourse leader: Prof. Mateusz Gyurkovich\nCoordinator: Dr Damian Poklewski-Koziełł
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m1a-2027-01-15@pk-architecture-calendar
+SUMMARY:Design Studio P5 — Module 1A
+DTSTART;TZID=Europe/Warsaw:20270115T080000
+DTEND;TZID=Europe/Warsaw:20270115T131500
+LOCATION:Podchorążych 1\, 30-084 Kraków\, Poland
+DESCRIPTION:Room: P5\, 2nd floor\nARCHITECTURE DESIGN OF NEW PUBLIC USE BUILDING\nCourse leader: Prof. Mateusz Gyurkovich\nCoordinator: Dr Damian Poklewski-Koziełł
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m1a-2027-01-22@pk-architecture-calendar
+SUMMARY:Design Studio P5 — Module 1A
+DTSTART;TZID=Europe/Warsaw:20270122T080000
+DTEND;TZID=Europe/Warsaw:20270122T131500
+LOCATION:Podchorążych 1\, 30-084 Kraków\, Poland
+DESCRIPTION:Room: P5\, 2nd floor\nARCHITECTURE DESIGN OF NEW PUBLIC USE BUILDING\nCourse leader: Prof. Mateusz Gyurkovich\nCoordinator: Dr Damian Poklewski-Koziełł
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m1a-2027-01-29@pk-architecture-calendar
+SUMMARY:Design Studio P5 — Module 1A
+DTSTART;TZID=Europe/Warsaw:20270129T080000
+DTEND;TZID=Europe/Warsaw:20270129T131500
+LOCATION:Podchorążych 1\, 30-084 Kraków\, Poland
+DESCRIPTION:Room: P5\, 2nd floor\nFINAL PROJECT PRESENTATION + THEORY EXAMS\nCourse leader: Prof. Mateusz Gyurkovich\nCoordinator: Dr Damian Poklewski-Koziełł
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m2a-2026-10-06@pk-architecture-calendar
+SUMMARY:Design Studio S3 — Module 2A
+DTSTART;TZID=Europe/Warsaw:20261006T170000
+DTEND;TZID=Europe/Warsaw:20261006T200000
+LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
+DESCRIPTION:Floor: 3rd floor\nIntroduction and division into groups.
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m2a-2026-10-07@pk-architecture-calendar
+SUMMARY:Design Studio S3 — Module 2A
+DTSTART;TZID=Europe/Warsaw:20261007T080000
+DTEND;TZID=Europe/Warsaw:20261007T093000
+LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
+DESCRIPTION:Floor: 3rd floor\nGuidelines for site inventory and analysis.
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m2a-2026-10-13@pk-architecture-calendar
+SUMMARY:Design Studio S3 — Module 2A
+DTSTART;TZID=Europe/Warsaw:20261013T170000
+DTEND;TZID=Europe/Warsaw:20261013T200000
+LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
+DESCRIPTION:Floor: 3rd floor\nApproval of base maps.
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m2a-2026-10-14@pk-architecture-calendar
+SUMMARY:Design Studio S3 — Module 2A
+DTSTART;TZID=Europe/Warsaw:20261014T080000
+DTEND;TZID=Europe/Warsaw:20261014T093000
+LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
+DESCRIPTION:Floor: 3rd floor\nIN-CLASS DESIGN EXERCISE I — Diagnosis.
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m2a-2026-10-20@pk-architecture-calendar
+SUMMARY:Design Studio S3 — Module 2A
+DTSTART;TZID=Europe/Warsaw:20261020T170000
+DTEND;TZID=Europe/Warsaw:20261020T200000
+LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
+DESCRIPTION:Floor: 3rd floor\nSynthesis of urban conditions — revisions.
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m2a-2026-10-21@pk-architecture-calendar
+SUMMARY:Design Studio S3 — Module 2A
+DTSTART;TZID=Europe/Warsaw:20261021T080000
+DTEND;TZID=Europe/Warsaw:20261021T093000
+LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
+DESCRIPTION:Floor: 3rd floor\nIntroduction to the regional development strategy.
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m2a-2026-10-27@pk-architecture-calendar
+SUMMARY:Design Studio S3 — Module 2A
+DTSTART;TZID=Europe/Warsaw:20261027T170000
+DTEND;TZID=Europe/Warsaw:20261027T200000
+LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
+DESCRIPTION:Floor: 3rd floor\nREVIEW I — Board No. 1.
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m2a-2026-10-28@pk-architecture-calendar
+SUMMARY:Design Studio S3 — Module 2A
+DTSTART;TZID=Europe/Warsaw:20261028T080000
+DTEND;TZID=Europe/Warsaw:20261028T093000
+LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
+DESCRIPTION:Floor: 3rd floor\nReview discussion + approval of regional base map.
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m2a-2026-11-03@pk-architecture-calendar
+SUMMARY:Design Studio S3 — Module 2A
+DTSTART;TZID=Europe/Warsaw:20261103T170000
+DTEND;TZID=Europe/Warsaw:20261103T200000
+LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
+DESCRIPTION:Floor: 3rd floor\nRegional development strategy — revisions.
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m2a-2026-11-04@pk-architecture-calendar
+SUMMARY:Design Studio S3 — Module 2A
+DTSTART;TZID=Europe/Warsaw:20261104T080000
+DTEND;TZID=Europe/Warsaw:20261104T093000
+LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
+DESCRIPTION:Floor: 3rd floor\nIN-CLASS DESIGN EXERCISE II — Regional / City Development Strategy.
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m2a-2026-11-10@pk-architecture-calendar
+SUMMARY:Design Studio S3 — Module 2A
+DTSTART;TZID=Europe/Warsaw:20261110T170000
+DTEND;TZID=Europe/Warsaw:20261110T200000
+LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
+DESCRIPTION:Floor: 3rd floor\nRegional / City Development Strategy — revisions.
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m2a-2026-11-17@pk-architecture-calendar
+SUMMARY:Design Studio S3 — Module 2A
+DTSTART;TZID=Europe/Warsaw:20261117T170000
+DTEND;TZID=Europe/Warsaw:20261117T200000
+LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
+DESCRIPTION:Floor: 3rd floor\nRegional / City Development Strategy — revisions.
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m2a-2026-11-18@pk-architecture-calendar
+SUMMARY:Design Studio S3 — Module 2A
+DTSTART;TZID=Europe/Warsaw:20261118T080000
+DTEND;TZID=Europe/Warsaw:20261118T093000
+LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
+DESCRIPTION:Floor: 3rd floor\nConcept of city's spatial structure — introduction.
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m2a-2026-11-24@pk-architecture-calendar
+SUMMARY:Design Studio S3 — Module 2A
+DTSTART;TZID=Europe/Warsaw:20261124T170000
+DTEND;TZID=Europe/Warsaw:20261124T200000
+LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
+DESCRIPTION:Floor: 3rd floor\nCity Development Strategy / spatial structure — revisions.
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m2a-2026-11-25@pk-architecture-calendar
+SUMMARY:Design Studio S3 — Module 2A
+DTSTART;TZID=Europe/Warsaw:20261125T080000
+DTEND;TZID=Europe/Warsaw:20261125T093000
+LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
+DESCRIPTION:Floor: 3rd floor\nTransport system — introduction + in-class exercise.
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m2a-2026-12-01@pk-architecture-calendar
+SUMMARY:Design Studio S3 — Module 2A
+DTSTART;TZID=Europe/Warsaw:20261201T170000
+DTEND;TZID=Europe/Warsaw:20261201T200000
+LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
+DESCRIPTION:Floor: 3rd floor\nCity Development Strategy / spatial structure — revisions.
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m2a-2026-12-02@pk-architecture-calendar
+SUMMARY:Design Studio S3 — Module 2A
+DTSTART;TZID=Europe/Warsaw:20261202T080000
+DTEND;TZID=Europe/Warsaw:20261202T093000
+LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
+DESCRIPTION:Floor: 3rd floor\nPublic space and green-blue infrastructure — in-class exercise.
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m2a-2026-12-08@pk-architecture-calendar
+SUMMARY:Design Studio S3 — Module 2A
+DTSTART;TZID=Europe/Warsaw:20261208T170000
+DTEND;TZID=Europe/Warsaw:20261208T200000
+LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
+DESCRIPTION:Floor: 3rd floor\nREVIEW II — Boards 2–4.
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m2a-2026-12-09@pk-architecture-calendar
+SUMMARY:Design Studio S3 — Module 2A
+DTSTART;TZID=Europe/Warsaw:20261209T080000
+DTEND;TZID=Europe/Warsaw:20261209T093000
+LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
+DESCRIPTION:Floor: 3rd floor\nReview discussion + Local Spatial Development Plan guidelines.
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m2a-2026-12-15@pk-architecture-calendar
+SUMMARY:Design Studio S3 — Module 2A
+DTSTART;TZID=Europe/Warsaw:20261215T170000
+DTEND;TZID=Europe/Warsaw:20261215T200000
+LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
+DESCRIPTION:Floor: 3rd floor\nLocal Spatial Development Plan — revisions.
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m2a-2026-12-16@pk-architecture-calendar
+SUMMARY:Design Studio S3 — Module 2A
+DTSTART;TZID=Europe/Warsaw:20261216T080000
+DTEND;TZID=Europe/Warsaw:20261216T093000
+LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
+DESCRIPTION:Floor: 3rd floor\nLocal Spatial Development Plan regulations — introduction.
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m2a-2027-01-12@pk-architecture-calendar
+SUMMARY:Design Studio S3 — Module 2A
+DTSTART;TZID=Europe/Warsaw:20270112T170000
+DTEND;TZID=Europe/Warsaw:20270112T200000
+LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
+DESCRIPTION:Floor: 3rd floor\nLocal Spatial Development Plan — revisions.
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m2a-2027-01-13@pk-architecture-calendar
+SUMMARY:Design Studio S3 — Module 2A
+DTSTART;TZID=Europe/Warsaw:20270113T080000
+DTEND;TZID=Europe/Warsaw:20270113T093000
+LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
+DESCRIPTION:Floor: 3rd floor\nCity spatial structure — revisions.
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m2a-2027-01-19@pk-architecture-calendar
+SUMMARY:Design Studio S3 — Module 2A
+DTSTART;TZID=Europe/Warsaw:20270119T170000
+DTEND;TZID=Europe/Warsaw:20270119T200000
+LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
+DESCRIPTION:Floor: 3rd floor\nREVIEW III — Revised Board 4 + Board 5.
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m2a-2027-01-20@pk-architecture-calendar
+SUMMARY:Design Studio S3 — Module 2A
+DTSTART;TZID=Europe/Warsaw:20270120T080000
+DTEND;TZID=Europe/Warsaw:20270120T093000
+LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
+DESCRIPTION:Floor: 3rd floor\nReview discussion.
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m2a-2027-01-26@pk-architecture-calendar
+SUMMARY:Design Studio S3 — Module 2A
+DTSTART;TZID=Europe/Warsaw:20270126T170000
+DTEND;TZID=Europe/Warsaw:20270126T200000
+LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
+DESCRIPTION:Floor: 3rd floor\nCompletion and refinement of semester project / Urban Engineering.
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m2a-2027-01-27@pk-architecture-calendar
+SUMMARY:Design Studio S3 — Module 2A
+DTSTART;TZID=Europe/Warsaw:20270127T080000
+DTEND;TZID=Europe/Warsaw:20270127T093000
+LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
+DESCRIPTION:Floor: 3rd floor\nCompletion and refinement of semester project / written description.
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m2a-2027-01-28@pk-architecture-calendar
+SUMMARY:Design Studio S3 — Module 2A
+DTSTART;TZID=Europe/Warsaw:20270128T080000
+DTEND;TZID=Europe/Warsaw:20270128T093000
+LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
+DESCRIPTION:Floor: 3rd floor\nMake-up for 23 Dec — completion and refinement of project.
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class starts in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m2a-2027-02-02@pk-architecture-calendar
+SUMMARY:Design Studio S3 — Module 2A
+DTSTART;TZID=Europe/Warsaw:20270202T170000
+DTEND;TZID=Europe/Warsaw:20270202T200000
+LOCATION:Warszawska 24\, 31-155 Kraków\, Poland
+DESCRIPTION:Floor: 3rd floor\nFINAL SUBMISSION OF THE SEMESTER PROJECT
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
 BEGIN:VALARM
 TRIGGER:-PT10M
