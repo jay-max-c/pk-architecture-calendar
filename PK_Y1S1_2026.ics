@@ -186,7 +186,7 @@ SUMMARY:Theory of Architectural and Urban Design with Elements of Ergonomics
 DTSTART;TZID=Europe/Warsaw:20261014T170000
 DTEND;TZID=Europe/Warsaw:20261014T183000
 LOCATION:ONLINE
-DESCRIPTION:Online\nCourse: Theory of Architectural and Urban Design with Elements of Ergonomics\nSchedule: every two weeks on Wednesdays\nFirst lecture: 14 Oct 2026\nTeacher message takes priority over the earlier Friday schedule
+DESCRIPTION:Lecture 1\\nTopic: SWIMMING POOLS AND SPORT FACILITIES\\nLecturer: dr inż. arch. Damian Poklewski-Koziełł\\nSchedule basis: latest instructor notice sets Wednesday 17:00–18:30 every two weeks starting 14 Oct. Topic sequence is taken from the uploaded lecture schedule PDF, whose original listed dates were Fridays.
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
@@ -199,7 +199,7 @@ SUMMARY:Theory of Architectural and Urban Design with Elements of Ergonomics
 DTSTART;TZID=Europe/Warsaw:20261028T170000
 DTEND;TZID=Europe/Warsaw:20261028T183000
 LOCATION:ONLINE
-DESCRIPTION:Online\nCourse: Theory of Architectural and Urban Design with Elements of Ergonomics\nSchedule: every two weeks on Wednesdays\nFirst lecture: 14 Oct 2026\nTeacher message takes priority over the earlier Friday schedule
+DESCRIPTION:Lecture 2\\nTopic: Architecture of the Ritual: Modernism\, Socialist Ritual Houses\, and Universal Ritual Spaces\\nLecturer: Prof. M. Arch. Irena Dragiycheva (UACEG)\\nSchedule basis: latest instructor notice sets Wednesday 17:00–18:30 every two weeks starting 14 Oct. Topic sequence is taken from the uploaded lecture schedule PDF, whose original listed dates were Fridays.
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
@@ -212,7 +212,7 @@ SUMMARY:Theory of Architectural and Urban Design with Elements of Ergonomics
 DTSTART;TZID=Europe/Warsaw:20261111T170000
 DTEND;TZID=Europe/Warsaw:20261111T183000
 LOCATION:ONLINE
-DESCRIPTION:Online\nCourse: Theory of Architectural and Urban Design with Elements of Ergonomics\nSchedule: every two weeks on Wednesdays\nFirst lecture: 14 Oct 2026\nTeacher message takes priority over the earlier Friday schedule
+DESCRIPTION:Lecture 3\\nTopic: SCHOOLS\\nLecturer: M. Arch. Marek Leja (MPOIA)\\nSchedule basis: latest instructor notice sets Wednesday 17:00–18:30 every two weeks starting 14 Oct. Topic sequence is taken from the uploaded lecture schedule PDF, whose original listed dates were Fridays.
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
@@ -225,7 +225,7 @@ SUMMARY:Theory of Architectural and Urban Design with Elements of Ergonomics
 DTSTART;TZID=Europe/Warsaw:20261125T170000
 DTEND;TZID=Europe/Warsaw:20261125T183000
 LOCATION:ONLINE
-DESCRIPTION:Online\nCourse: Theory of Architectural and Urban Design with Elements of Ergonomics\nSchedule: every two weeks on Wednesdays\nFirst lecture: 14 Oct 2026\nTeacher message takes priority over the earlier Friday schedule
+DESCRIPTION:Lecture 4\\nTopic: MUSEUMS OBJECTS & COMPLEXES\\nLecturer: Prof. dr hab. inż. arch. Mateusz Gyurkovich\\nSchedule basis: latest instructor notice sets Wednesday 17:00–18:30 every two weeks starting 14 Oct. Topic sequence is taken from the uploaded lecture schedule PDF, whose original listed dates were Fridays.
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
@@ -238,7 +238,7 @@ SUMMARY:Theory of Architectural and Urban Design with Elements of Ergonomics
 DTSTART;TZID=Europe/Warsaw:20261209T170000
 DTEND;TZID=Europe/Warsaw:20261209T183000
 LOCATION:ONLINE
-DESCRIPTION:Online\nCourse: Theory of Architectural and Urban Design with Elements of Ergonomics\nSchedule: every two weeks on Wednesdays\nFirst lecture: 14 Oct 2026\nTeacher message takes priority over the earlier Friday schedule
+DESCRIPTION:Lecture 5\\nTopic: Conceptual\, formal and technical issues in the process of an implementation on the art gallery building in a historical context + BONUS\\nLecturer: Dr inż. arch. Wojciech Świątek\\nSchedule basis: latest instructor notice sets Wednesday 17:00–18:30 every two weeks starting 14 Oct. Topic sequence is taken from the uploaded lecture schedule PDF, whose original listed dates were Fridays.
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
@@ -251,7 +251,7 @@ SUMMARY:Theory of Architectural and Urban Design with Elements of Ergonomics
 DTSTART;TZID=Europe/Warsaw:20261223T170000
 DTEND;TZID=Europe/Warsaw:20261223T183000
 LOCATION:ONLINE
-DESCRIPTION:Online\nCourse: Theory of Architectural and Urban Design with Elements of Ergonomics\nSchedule: every two weeks on Wednesdays\nFirst lecture: 14 Oct 2026\nTeacher message takes priority over the earlier Friday schedule
+DESCRIPTION:Lecture 6\\nTopic: LIBRARIES\\nLecturer: dr inż. arch. Bartłomiej Homiński\\nSchedule basis: latest instructor notice sets Wednesday 17:00–18:30 every two weeks starting 14 Oct. Topic sequence is taken from the uploaded lecture schedule PDF, whose original listed dates were Fridays.
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
@@ -264,7 +264,7 @@ SUMMARY:Theory of Architectural and Urban Design with Elements of Ergonomics
 DTSTART;TZID=Europe/Warsaw:20270106T170000
 DTEND;TZID=Europe/Warsaw:20270106T183000
 LOCATION:ONLINE
-DESCRIPTION:Online\nCourse: Theory of Architectural and Urban Design with Elements of Ergonomics\nSchedule: every two weeks on Wednesdays\nFirst lecture: 14 Oct 2026\nTeacher message takes priority over the earlier Friday schedule
+DESCRIPTION:Lecture 7\\nTopic: SHOPING MALLS\\nLecturer: Dr inż. arch. Natalia Gorgol\\nSchedule basis: latest instructor notice sets Wednesday 17:00–18:30 every two weeks starting 14 Oct. Topic sequence is taken from the uploaded lecture schedule PDF, whose original listed dates were Fridays.
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
@@ -277,7 +277,7 @@ SUMMARY:Theory of Architectural and Urban Design with Elements of Ergonomics
 DTSTART;TZID=Europe/Warsaw:20270120T170000
 DTEND;TZID=Europe/Warsaw:20270120T183000
 LOCATION:ONLINE
-DESCRIPTION:Online\nCourse: Theory of Architectural and Urban Design with Elements of Ergonomics\nSchedule: every two weeks on Wednesdays\nFirst lecture: 14 Oct 2026\nTeacher message takes priority over the earlier Friday schedule
+DESCRIPTION:Lecture 8\\nTopic: EXAM: TEST – 45 MINUTES\\nLecturer: Prof. dr hab. inż. arch. Mateusz Gyurkovich\\nSchedule basis: latest instructor notice sets Wednesday 17:00–18:30 every two weeks starting 14 Oct. Topic sequence is taken from the uploaded lecture schedule PDF, whose original listed dates were Fridays.
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
