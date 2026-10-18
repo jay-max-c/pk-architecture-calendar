@@ -13,13 +13,13 @@ DTEND;TZID=Europe/Warsaw:20261009T144500
 RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20270202T225959Z
 EXDATE;TZID=Europe/Warsaw:20261225T131500
 EXDATE;TZID=Europe/Warsaw:20270101T131500
-DESCRIPTION:Design Studio P5\nModule 1B: Architectural and Construction Design: Building Structures\nProfessor: dr inż. Roman Paruch, prof. PK
+DESCRIPTION:Design Studio P5\nModule 1B: Architectural and Construction Design: Building Structures\nProfessor: dr inż. Roman Paruch, prof. PK\nMeeting point: building on Poselska Street
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
 DESCRIPTION:Class starts in 10 minutes
 END:VALARM
-LOCATION:Podchorążych 1\, 30-084 Kraków\, Poland
+LOCATION:Poselska\, Kraków\, Poland
 END:VEVENT
 BEGIN:VEVENT
 UID:mon-building-structures@pk-architecture-calendar
@@ -310,8 +310,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hmi-practical-2026-10-19@pk-architecture-calendar
 SUMMARY:Heritage Protection – Identification — Practical
-DTSTART;TZID=Europe/Warsaw:20261019T123000
-DTEND;TZID=Europe/Warsaw:20261019T143000
+DTSTART;TZID=Europe/Warsaw:20261019T103000
+DTEND;TZID=Europe/Warsaw:20261019T123000
 DESCRIPTION:Practical class\nOutdoor classes
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -337,8 +337,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hmi-practical-2026-11-09@pk-architecture-calendar
 SUMMARY:Heritage Protection – Identification — Practical
-DTSTART;TZID=Europe/Warsaw:20261109T123000
-DTEND;TZID=Europe/Warsaw:20261109T143000
+DTSTART;TZID=Europe/Warsaw:20261109T103000
+DTEND;TZID=Europe/Warsaw:20261109T123000
 DESCRIPTION:Practical class\nOutdoor thermal imaging measurements
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -363,8 +363,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hmi-practical-2026-11-23@pk-architecture-calendar
 SUMMARY:Heritage Protection – Identification — Practical
-DTSTART;TZID=Europe/Warsaw:20261123T123000
-DTEND;TZID=Europe/Warsaw:20261123T143000
+DTSTART;TZID=Europe/Warsaw:20261123T103000
+DTEND;TZID=Europe/Warsaw:20261123T123000
 DESCRIPTION:Practical class\nOutdoor humidity measurements with a hygrometer
 BEGIN:VALARM
 TRIGGER:-PT10M
@@ -389,8 +389,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hmi-practical-2026-12-07@pk-architecture-calendar
 SUMMARY:Heritage Protection – Identification — Practical
-DTSTART;TZID=Europe/Warsaw:20261207T123000
-DTEND;TZID=Europe/Warsaw:20261207T143000
+DTSTART;TZID=Europe/Warsaw:20261207T103000
+DTEND;TZID=Europe/Warsaw:20261207T123000
 LOCATION:Kanonicza 1\, 31-002 Kraków\, Poland
 DESCRIPTION:Practical class\nConsultations and feedback
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
@@ -417,8 +417,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hmi-practical-2026-12-21@pk-architecture-calendar
 SUMMARY:Heritage Protection – Identification — Practical
-DTSTART;TZID=Europe/Warsaw:20261221T123000
-DTEND;TZID=Europe/Warsaw:20261221T143000
+DTSTART;TZID=Europe/Warsaw:20261221T103000
+DTEND;TZID=Europe/Warsaw:20261221T123000
 LOCATION:Kanonicza 1\, 31-002 Kraków\, Poland
 DESCRIPTION:Practical class\nProject review
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
@@ -473,8 +473,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hmi-practical-2027-02-01@pk-architecture-calendar
 SUMMARY:Heritage Protection – Identification — Practical
-DTSTART;TZID=Europe/Warsaw:20270201T123000
-DTEND;TZID=Europe/Warsaw:20270201T143000
+DTSTART;TZID=Europe/Warsaw:20270201T103000
+DTEND;TZID=Europe/Warsaw:20270201T123000
 LOCATION:Kanonicza 1\, 31-002 Kraków\, Poland
 DESCRIPTION:Final deadline
 X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
